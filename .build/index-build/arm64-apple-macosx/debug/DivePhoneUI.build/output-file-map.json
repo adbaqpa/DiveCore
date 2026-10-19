@@ -1,0 +1,35 @@
+{
+  "": {
+    "swift-dependencies": "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DivePhoneUI.build/primary.swiftdeps"
+  },
+  "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DivePhoneUI/DiveChartView.swift": {
+    "dependencies": "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DivePhoneUI.build/DiveChartView.d",
+    "object": "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DivePhoneUI.build/DiveChartView.swift.o",
+    "swiftmodule": "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DivePhoneUI.build/DiveChartView~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DivePhoneUI.build/DiveChartView.swiftdeps",
+    "diagnostics": "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DivePhoneUI.build/DiveChartView.dia"  },
+  "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DivePhoneUI/DiveDetailScreen.swift": {
+    "dependencies": "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DivePhoneUI.build/DiveDetailScreen.d",
+    "object": "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DivePhoneUI.build/DiveDetailScreen.swift.o",
+    "swiftmodule": "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DivePhoneUI.build/DiveDetailScreen~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DivePhoneUI.build/DiveDetailScreen.swiftdeps",
+    "diagnostics": "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DivePhoneUI.build/DiveDetailScreen.dia"  },
+  "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DivePhoneUI/DiveExportScreen.swift": {
+    "dependencies": "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DivePhoneUI.build/DiveExportScreen.d",
+    "object": "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DivePhoneUI.build/DiveExportScreen.swift.o",
+    "swiftmodule": "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DivePhoneUI.build/DiveExportScreen~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DivePhoneUI.build/DiveExportScreen.swiftdeps",
+    "diagnostics": "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DivePhoneUI.build/DiveExportScreen.dia"  },
+  "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DivePhoneUI/DiveRouteMapView.swift": {
+    "dependencies": "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DivePhoneUI.build/DiveRouteMapView.d",
+    "object": "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DivePhoneUI.build/DiveRouteMapView.swift.o",
+    "swiftmodule": "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DivePhoneUI.build/DiveRouteMapView~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DivePhoneUI.build/DiveRouteMapView.swiftdeps",
+    "diagnostics": "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DivePhoneUI.build/DiveRouteMapView.dia"  },
+  "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DivePhoneUI/PaywallView.swift": {
+    "dependencies": "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DivePhoneUI.build/PaywallView.d",
+    "object": "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DivePhoneUI.build/PaywallView.swift.o",
+    "swiftmodule": "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DivePhoneUI.build/PaywallView~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DivePhoneUI.build/PaywallView.swiftdeps",
+    "diagnostics": "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DivePhoneUI.build/PaywallView.dia"  }
+}

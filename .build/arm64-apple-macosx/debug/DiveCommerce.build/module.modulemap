@@ -1,0 +1,4 @@
+module DiveCommerce {
+    header "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveCommerce.build/DiveCommerce-Swift.h"
+    requires objc
+}

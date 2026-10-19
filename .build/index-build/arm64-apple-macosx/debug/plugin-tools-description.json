@@ -1,0 +1,3405 @@
+{
+  "builtTestProducts" : [
+    {
+      "binaryPath" : "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveCorePackageTests.xctest/Contents/MacOS/DiveCorePackageTests",
+      "coverageBinaryPath" : "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveCorePackageTests.xctest/Contents/MacOS/DiveCorePackageTests",
+      "packagePath" : "/Users/mac/DiveCore Scuba Computer - WatchOS",
+      "productName" : "DiveCorePackageTests"
+    }
+  ],
+  "copyCommands" : {
+
+  },
+  "explicitTargetDependencyImportCheckingMode" : {
+    "none" : {
+
+    }
+  },
+  "generatedSourceTargetSet" : [
+
+  ],
+  "pluginDescriptions" : [
+
+  ],
+  "swiftCommands" : {
+    "C.DiveCharts-arm64-apple-macosx-debug.module" : {
+      "executable" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "fileList" : "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveCharts.build/sources",
+      "importPath" : "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/Modules",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCharts/DiveChartViews.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/swift-version--58304C5D6DBC2206.txt"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/Modules/DiveCore.swiftmodule"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveCharts.build/sources"
+        }
+      ],
+      "isLibrary" : true,
+      "moduleName" : "DiveCharts",
+      "moduleOutputPath" : "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/Modules/DiveCharts.swiftmodule",
+      "objects" : [
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveCharts.build/DiveChartViews.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "arm64-apple-macosx14.0",
+        "-incremental",
+        "-enable-batch-mode",
+        "-serialize-diagnostics",
+        "-index-store-path",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/index/store",
+        "-Onone",
+        "-enable-testing",
+        "-j8",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+        "-module-cache-path",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-parse-as-library",
+        "-emit-objc-header",
+        "-emit-objc-header-path",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveCharts.build/include/DiveCharts-Swift.h",
+        "-swift-version",
+        "5",
+        "-Xfrontend",
+        "-experimental-lazy-typecheck",
+        "-Xfrontend",
+        "-experimental-skip-all-function-bodies",
+        "-Xfrontend",
+        "-experimental-allow-module-with-compiler-errors",
+        "-Xfrontend",
+        "-empty-abi-descriptor",
+        "-plugin-path",
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/host/plugins/testing",
+        "-sdk",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX27.0.sdk",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-I",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-g",
+        "-Xcc",
+        "-isysroot",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX27.0.sdk",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-Xcc",
+        "-fPIC",
+        "-Xcc",
+        "-g",
+        "-package-name",
+        "divecore_scuba_computer___watchos"
+      ],
+      "outputFileMapPath" : "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveCharts.build/output-file-map.json",
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/Modules/DiveCharts.swiftmodule"
+        }
+      ],
+      "prepareForIndexing" : true,
+      "sources" : [
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCharts/DiveChartViews.swift"
+      ],
+      "tempsPath" : "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveCharts.build",
+      "wholeModuleOptimization" : false
+    },
+    "C.DiveCheck-arm64-apple-macosx-debug.module" : {
+      "executable" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "fileList" : "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveCheck.build/sources",
+      "importPath" : "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/Modules",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Tools/DiveCheck/main.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/swift-version--58304C5D6DBC2206.txt"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/Modules/DiveCore.swiftmodule"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveCheck.build/sources"
+        }
+      ],
+      "isLibrary" : false,
+      "moduleName" : "DiveCheck",
+      "moduleOutputPath" : "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/Modules/DiveCheck.swiftmodule",
+      "objects" : [
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveCheck.build/main.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "arm64-apple-macosx14.0",
+        "-incremental",
+        "-enable-batch-mode",
+        "-serialize-diagnostics",
+        "-index-store-path",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/index/store",
+        "-Onone",
+        "-enable-testing",
+        "-j8",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+        "-module-cache-path",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-swift-version",
+        "5",
+        "-Xfrontend",
+        "-experimental-lazy-typecheck",
+        "-Xfrontend",
+        "-experimental-skip-all-function-bodies",
+        "-Xfrontend",
+        "-experimental-allow-module-with-compiler-errors",
+        "-Xfrontend",
+        "-empty-abi-descriptor",
+        "-plugin-path",
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/host/plugins/testing",
+        "-sdk",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX27.0.sdk",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-I",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-g",
+        "-Xcc",
+        "-isysroot",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX27.0.sdk",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-Xcc",
+        "-fPIC",
+        "-Xcc",
+        "-g",
+        "-package-name",
+        "divecore_scuba_computer___watchos"
+      ],
+      "outputFileMapPath" : "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveCheck.build/output-file-map.json",
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/Modules/DiveCheck.swiftmodule"
+        }
+      ],
+      "prepareForIndexing" : true,
+      "sources" : [
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/Tools/DiveCheck/main.swift"
+      ],
+      "tempsPath" : "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveCheck.build",
+      "wholeModuleOptimization" : false
+    },
+    "C.DiveCommerce-arm64-apple-macosx-debug.module" : {
+      "executable" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "fileList" : "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveCommerce.build/sources",
+      "importPath" : "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/Modules",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCommerce/StoreManager.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/swift-version--58304C5D6DBC2206.txt"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/Modules/DiveCore.swiftmodule"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveCommerce.build/sources"
+        }
+      ],
+      "isLibrary" : true,
+      "moduleName" : "DiveCommerce",
+      "moduleOutputPath" : "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/Modules/DiveCommerce.swiftmodule",
+      "objects" : [
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveCommerce.build/StoreManager.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "arm64-apple-macosx14.0",
+        "-incremental",
+        "-enable-batch-mode",
+        "-serialize-diagnostics",
+        "-index-store-path",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/index/store",
+        "-Onone",
+        "-enable-testing",
+        "-j8",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+        "-module-cache-path",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-parse-as-library",
+        "-emit-objc-header",
+        "-emit-objc-header-path",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveCommerce.build/include/DiveCommerce-Swift.h",
+        "-swift-version",
+        "5",
+        "-Xfrontend",
+        "-experimental-lazy-typecheck",
+        "-Xfrontend",
+        "-experimental-skip-all-function-bodies",
+        "-Xfrontend",
+        "-experimental-allow-module-with-compiler-errors",
+        "-Xfrontend",
+        "-empty-abi-descriptor",
+        "-plugin-path",
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/host/plugins/testing",
+        "-sdk",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX27.0.sdk",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-I",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-g",
+        "-Xcc",
+        "-isysroot",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX27.0.sdk",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-Xcc",
+        "-fPIC",
+        "-Xcc",
+        "-g",
+        "-package-name",
+        "divecore_scuba_computer___watchos"
+      ],
+      "outputFileMapPath" : "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveCommerce.build/output-file-map.json",
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/Modules/DiveCommerce.swiftmodule"
+        }
+      ],
+      "prepareForIndexing" : true,
+      "sources" : [
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCommerce/StoreManager.swift"
+      ],
+      "tempsPath" : "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveCommerce.build",
+      "wholeModuleOptimization" : false
+    },
+    "C.DiveCore-arm64-apple-macosx-debug.module" : {
+      "executable" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "fileList" : "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveCore.build/sources",
+      "importPath" : "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/Modules",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Managers/DiveConfiguration.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Managers/DiveLockController.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Managers/DiveLogStore.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Managers/DiveLogbook.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Managers/DiveSessionController.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Managers/DiveStatistics.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Managers/FlightAltitudeCalculator.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Managers/RepetitiveDiveCalculator.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Managers/SurfaceIntervalManager.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Models/DepthReading.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Models/DivePhysics.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Models/DiveReport.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Models/DiveState.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Models/GasBlendPlanner.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Models/GasMix.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Models/LogEntry.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Models/LoggedDive.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Presentation/CommerceText.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Presentation/DiveAccessoryData.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Presentation/DiveChartModel.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Presentation/DiveComplicationModes.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Presentation/DiveComplicationTimeline.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Presentation/DiveDisplay.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Presentation/DiveReportDisplay.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Presentation/DiveSettingsDisplay.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Presentation/DiveThemes.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Presentation/RepetitiveDiveDisplay.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Services/AdaptiveSampler.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Services/AlarmCoordinator.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Services/AppDistribution.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Services/AscentAdvisor.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Services/AscentRateMonitor.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Services/Commerce/AppPrivacy.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Services/Commerce/AppStoreListing.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Services/Commerce/Entitlement.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Services/Commerce/FeatureGate.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Services/Commerce/ProductCatalog.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Services/Commerce/SafetyPolicy.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Services/DecoEngine.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Services/DecoStopPlan.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Services/DeepStopCalculator.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Services/DepthSensor.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Services/DiveChartData.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Services/DiveExportService.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Services/DiveRoute.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Services/DiveSimulator.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Services/DiveSyncEngine.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Services/EnergyManager.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Services/FITExporter.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Services/GradientFactorCatalog.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Services/GradientFactors.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Services/OxygenStatus.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Services/OxygenToxicity.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Services/TissueModel.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Services/UDDFExporter.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/swift-version--58304C5D6DBC2206.txt"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveCore.build/sources"
+        }
+      ],
+      "isLibrary" : true,
+      "moduleName" : "DiveCore",
+      "moduleOutputPath" : "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/Modules/DiveCore.swiftmodule",
+      "objects" : [
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveCore.build/DiveConfiguration.swift.o",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveCore.build/DiveLockController.swift.o",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveCore.build/DiveLogStore.swift.o",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveCore.build/DiveLogbook.swift.o",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveCore.build/DiveSessionController.swift.o",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveCore.build/DiveStatistics.swift.o",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveCore.build/FlightAltitudeCalculator.swift.o",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveCore.build/RepetitiveDiveCalculator.swift.o",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveCore.build/SurfaceIntervalManager.swift.o",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveCore.build/DepthReading.swift.o",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveCore.build/DivePhysics.swift.o",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveCore.build/DiveReport.swift.o",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveCore.build/DiveState.swift.o",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveCore.build/GasBlendPlanner.swift.o",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveCore.build/GasMix.swift.o",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveCore.build/LogEntry.swift.o",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveCore.build/LoggedDive.swift.o",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveCore.build/CommerceText.swift.o",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveCore.build/DiveAccessoryData.swift.o",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveCore.build/DiveChartModel.swift.o",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveCore.build/DiveComplicationModes.swift.o",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveCore.build/DiveComplicationTimeline.swift.o",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveCore.build/DiveDisplay.swift.o",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveCore.build/DiveReportDisplay.swift.o",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveCore.build/DiveSettingsDisplay.swift.o",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveCore.build/DiveThemes.swift.o",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveCore.build/RepetitiveDiveDisplay.swift.o",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveCore.build/AdaptiveSampler.swift.o",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveCore.build/AlarmCoordinator.swift.o",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveCore.build/AppDistribution.swift.o",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveCore.build/AscentAdvisor.swift.o",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveCore.build/AscentRateMonitor.swift.o",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveCore.build/AppPrivacy.swift.o",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveCore.build/AppStoreListing.swift.o",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveCore.build/Entitlement.swift.o",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveCore.build/FeatureGate.swift.o",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveCore.build/ProductCatalog.swift.o",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveCore.build/SafetyPolicy.swift.o",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveCore.build/DecoEngine.swift.o",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveCore.build/DecoStopPlan.swift.o",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveCore.build/DeepStopCalculator.swift.o",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveCore.build/DepthSensor.swift.o",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveCore.build/DiveChartData.swift.o",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveCore.build/DiveExportService.swift.o",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveCore.build/DiveRoute.swift.o",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveCore.build/DiveSimulator.swift.o",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveCore.build/DiveSyncEngine.swift.o",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveCore.build/EnergyManager.swift.o",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveCore.build/FITExporter.swift.o",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveCore.build/GradientFactorCatalog.swift.o",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveCore.build/GradientFactors.swift.o",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveCore.build/OxygenStatus.swift.o",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveCore.build/OxygenToxicity.swift.o",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveCore.build/TissueModel.swift.o",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveCore.build/UDDFExporter.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "arm64-apple-macosx14.0",
+        "-incremental",
+        "-enable-batch-mode",
+        "-serialize-diagnostics",
+        "-index-store-path",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/index/store",
+        "-Onone",
+        "-enable-testing",
+        "-j8",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+        "-module-cache-path",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-parse-as-library",
+        "-emit-objc-header",
+        "-emit-objc-header-path",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveCore.build/include/DiveCore-Swift.h",
+        "-swift-version",
+        "5",
+        "-Xfrontend",
+        "-experimental-lazy-typecheck",
+        "-Xfrontend",
+        "-experimental-skip-all-function-bodies",
+        "-Xfrontend",
+        "-experimental-allow-module-with-compiler-errors",
+        "-Xfrontend",
+        "-empty-abi-descriptor",
+        "-plugin-path",
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/host/plugins/testing",
+        "-sdk",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX27.0.sdk",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-I",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-g",
+        "-Xcc",
+        "-isysroot",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX27.0.sdk",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-Xcc",
+        "-fPIC",
+        "-Xcc",
+        "-g",
+        "-package-name",
+        "divecore_scuba_computer___watchos"
+      ],
+      "outputFileMapPath" : "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveCore.build/output-file-map.json",
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/Modules/DiveCore.swiftmodule"
+        }
+      ],
+      "prepareForIndexing" : true,
+      "sources" : [
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Managers/DiveConfiguration.swift",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Managers/DiveLockController.swift",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Managers/DiveLogStore.swift",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Managers/DiveLogbook.swift",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Managers/DiveSessionController.swift",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Managers/DiveStatistics.swift",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Managers/FlightAltitudeCalculator.swift",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Managers/RepetitiveDiveCalculator.swift",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Managers/SurfaceIntervalManager.swift",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Models/DepthReading.swift",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Models/DivePhysics.swift",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Models/DiveReport.swift",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Models/DiveState.swift",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Models/GasBlendPlanner.swift",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Models/GasMix.swift",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Models/LogEntry.swift",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Models/LoggedDive.swift",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Presentation/CommerceText.swift",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Presentation/DiveAccessoryData.swift",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Presentation/DiveChartModel.swift",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Presentation/DiveComplicationModes.swift",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Presentation/DiveComplicationTimeline.swift",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Presentation/DiveDisplay.swift",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Presentation/DiveReportDisplay.swift",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Presentation/DiveSettingsDisplay.swift",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Presentation/DiveThemes.swift",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Presentation/RepetitiveDiveDisplay.swift",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Services/AdaptiveSampler.swift",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Services/AlarmCoordinator.swift",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Services/AppDistribution.swift",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Services/AscentAdvisor.swift",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Services/AscentRateMonitor.swift",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Services/Commerce/AppPrivacy.swift",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Services/Commerce/AppStoreListing.swift",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Services/Commerce/Entitlement.swift",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Services/Commerce/FeatureGate.swift",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Services/Commerce/ProductCatalog.swift",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Services/Commerce/SafetyPolicy.swift",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Services/DecoEngine.swift",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Services/DecoStopPlan.swift",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Services/DeepStopCalculator.swift",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Services/DepthSensor.swift",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Services/DiveChartData.swift",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Services/DiveExportService.swift",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Services/DiveRoute.swift",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Services/DiveSimulator.swift",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Services/DiveSyncEngine.swift",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Services/EnergyManager.swift",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Services/FITExporter.swift",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Services/GradientFactorCatalog.swift",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Services/GradientFactors.swift",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Services/OxygenStatus.swift",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Services/OxygenToxicity.swift",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Services/TissueModel.swift",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Services/UDDFExporter.swift"
+      ],
+      "tempsPath" : "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveCore.build",
+      "wholeModuleOptimization" : false
+    },
+    "C.DiveCorePackageTests-arm64-apple-macosx-debug.module" : {
+      "executable" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "fileList" : "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveCorePackageTests.build/sources",
+      "importPath" : "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/Modules",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveCorePackageTests.derived/runner.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/swift-version--58304C5D6DBC2206.txt"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/Modules/DiveCoreTests.swiftmodule"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveCorePackageTests.build/sources"
+        }
+      ],
+      "isLibrary" : true,
+      "moduleName" : "DiveCorePackageTests",
+      "moduleOutputPath" : "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/Modules/DiveCorePackageTests.swiftmodule",
+      "objects" : [
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveCorePackageTests.build/runner.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "arm64-apple-macosx14.0",
+        "-incremental",
+        "-enable-batch-mode",
+        "-serialize-diagnostics",
+        "-index-store-path",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/index/store",
+        "-Onone",
+        "-enable-testing",
+        "-Xfrontend",
+        "-enable-cross-import-overlays",
+        "-j8",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+        "-module-cache-path",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-parse-as-library",
+        "-emit-objc-header",
+        "-emit-objc-header-path",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveCorePackageTests.build/include/DiveCorePackageTests-Swift.h",
+        "-Xfrontend",
+        "-experimental-lazy-typecheck",
+        "-Xfrontend",
+        "-experimental-skip-all-function-bodies",
+        "-Xfrontend",
+        "-experimental-allow-module-with-compiler-errors",
+        "-Xfrontend",
+        "-empty-abi-descriptor",
+        "-plugin-path",
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/host/plugins/testing",
+        "-sdk",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX27.0.sdk",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-I",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-g",
+        "-Xcc",
+        "-isysroot",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX27.0.sdk",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-Xcc",
+        "-fPIC",
+        "-Xcc",
+        "-g",
+        "-package-name",
+        "divecore_scuba_computer___watchos"
+      ],
+      "outputFileMapPath" : "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveCorePackageTests.build/output-file-map.json",
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/Modules/DiveCorePackageTests.swiftmodule"
+        }
+      ],
+      "prepareForIndexing" : true,
+      "sources" : [
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveCorePackageTests.derived/runner.swift"
+      ],
+      "tempsPath" : "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveCorePackageTests.build",
+      "wholeModuleOptimization" : false
+    },
+    "C.DiveCoreTests-arm64-apple-macosx-debug.module" : {
+      "executable" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "fileList" : "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveCoreTests.build/sources",
+      "importPath" : "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/Modules",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Tests/DiveCoreTests/AdaptiveSamplingIntegrationTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Tests/DiveCoreTests/AlarmCoordinatorTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Tests/DiveCoreTests/AppDistributionTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Tests/DiveCoreTests/AscentAdvisorTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Tests/DiveCoreTests/AscentRateMonitorTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Tests/DiveCoreTests/AscentStressTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Tests/DiveCoreTests/CommerceCoreTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Tests/DiveCoreTests/CommerceSafetyTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Tests/DiveCoreTests/DecoEngineTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Tests/DiveCoreTests/DecoStopPlanTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Tests/DiveCoreTests/DeepStopCalculatorTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Tests/DiveCoreTests/DepthSensorTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Tests/DiveCoreTests/DiveAccessoryDataTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Tests/DiveCoreTests/DiveChartDataTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Tests/DiveCoreTests/DiveComplicationModesTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Tests/DiveCoreTests/DiveComplicationTimelineTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Tests/DiveCoreTests/DiveDisplayTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Tests/DiveCoreTests/DiveExportAndRouteTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Tests/DiveCoreTests/DiveLockControllerTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Tests/DiveCoreTests/DiveLogStoreTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Tests/DiveCoreTests/DiveLogbookTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Tests/DiveCoreTests/DivePhysicsTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Tests/DiveCoreTests/DiveReportDisplayTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Tests/DiveCoreTests/DiveReportTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Tests/DiveCoreTests/DiveSessionControllerTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Tests/DiveCoreTests/DiveSettingsTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Tests/DiveCoreTests/DiveSimulatorTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Tests/DiveCoreTests/DiveStateTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Tests/DiveCoreTests/DiveSyncEngineTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Tests/DiveCoreTests/EnergyOptimizationTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Tests/DiveCoreTests/GasMixTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Tests/DiveCoreTests/GradientFactorsTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Tests/DiveCoreTests/LogEntryTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Tests/DiveCoreTests/OxygenStatusTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Tests/DiveCoreTests/OxygenToxicityTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Tests/DiveCoreTests/RepetitiveDiveDisplayTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Tests/DiveCoreTests/ShallowWaterStressTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Tests/DiveCoreTests/StoreTextTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Tests/DiveCoreTests/SurfaceIntervalCalculationsTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Tests/DiveCoreTests/SurfaceIntervalManagerTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Tests/DiveCoreTests/SyncStressTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Tests/DiveCoreTests/TissueModelTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/swift-version--58304C5D6DBC2206.txt"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/Modules/DiveCore.swiftmodule"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveCoreTests.build/sources"
+        }
+      ],
+      "isLibrary" : true,
+      "moduleName" : "DiveCoreTests",
+      "moduleOutputPath" : "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/Modules/DiveCoreTests.swiftmodule",
+      "objects" : [
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveCoreTests.build/AdaptiveSamplingIntegrationTests.swift.o",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveCoreTests.build/AlarmCoordinatorTests.swift.o",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveCoreTests.build/AppDistributionTests.swift.o",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveCoreTests.build/AscentAdvisorTests.swift.o",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveCoreTests.build/AscentRateMonitorTests.swift.o",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveCoreTests.build/AscentStressTests.swift.o",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveCoreTests.build/CommerceCoreTests.swift.o",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveCoreTests.build/CommerceSafetyTests.swift.o",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveCoreTests.build/DecoEngineTests.swift.o",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveCoreTests.build/DecoStopPlanTests.swift.o",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveCoreTests.build/DeepStopCalculatorTests.swift.o",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveCoreTests.build/DepthSensorTests.swift.o",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveCoreTests.build/DiveAccessoryDataTests.swift.o",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveCoreTests.build/DiveChartDataTests.swift.o",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveCoreTests.build/DiveComplicationModesTests.swift.o",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveCoreTests.build/DiveComplicationTimelineTests.swift.o",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveCoreTests.build/DiveDisplayTests.swift.o",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveCoreTests.build/DiveExportAndRouteTests.swift.o",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveCoreTests.build/DiveLockControllerTests.swift.o",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveCoreTests.build/DiveLogStoreTests.swift.o",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveCoreTests.build/DiveLogbookTests.swift.o",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveCoreTests.build/DivePhysicsTests.swift.o",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveCoreTests.build/DiveReportDisplayTests.swift.o",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveCoreTests.build/DiveReportTests.swift.o",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveCoreTests.build/DiveSessionControllerTests.swift.o",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveCoreTests.build/DiveSettingsTests.swift.o",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveCoreTests.build/DiveSimulatorTests.swift.o",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveCoreTests.build/DiveStateTests.swift.o",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveCoreTests.build/DiveSyncEngineTests.swift.o",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveCoreTests.build/EnergyOptimizationTests.swift.o",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveCoreTests.build/GasMixTests.swift.o",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveCoreTests.build/GradientFactorsTests.swift.o",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveCoreTests.build/LogEntryTests.swift.o",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveCoreTests.build/OxygenStatusTests.swift.o",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveCoreTests.build/OxygenToxicityTests.swift.o",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveCoreTests.build/RepetitiveDiveDisplayTests.swift.o",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveCoreTests.build/ShallowWaterStressTests.swift.o",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveCoreTests.build/StoreTextTests.swift.o",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveCoreTests.build/SurfaceIntervalCalculationsTests.swift.o",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveCoreTests.build/SurfaceIntervalManagerTests.swift.o",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveCoreTests.build/SyncStressTests.swift.o",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveCoreTests.build/TissueModelTests.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "arm64-apple-macosx14.0",
+        "-incremental",
+        "-enable-batch-mode",
+        "-serialize-diagnostics",
+        "-index-store-path",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/index/store",
+        "-Onone",
+        "-enable-testing",
+        "-Xfrontend",
+        "-enable-cross-import-overlays",
+        "-j8",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+        "-module-cache-path",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-parse-as-library",
+        "-swift-version",
+        "5",
+        "-Xfrontend",
+        "-experimental-lazy-typecheck",
+        "-Xfrontend",
+        "-experimental-skip-all-function-bodies",
+        "-Xfrontend",
+        "-experimental-allow-module-with-compiler-errors",
+        "-Xfrontend",
+        "-empty-abi-descriptor",
+        "-plugin-path",
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/host/plugins/testing",
+        "-sdk",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX27.0.sdk",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-I",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-g",
+        "-Xcc",
+        "-isysroot",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX27.0.sdk",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-Xcc",
+        "-fPIC",
+        "-Xcc",
+        "-g",
+        "-package-name",
+        "divecore_scuba_computer___watchos"
+      ],
+      "outputFileMapPath" : "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveCoreTests.build/output-file-map.json",
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/Modules/DiveCoreTests.swiftmodule"
+        }
+      ],
+      "prepareForIndexing" : true,
+      "sources" : [
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/Tests/DiveCoreTests/AdaptiveSamplingIntegrationTests.swift",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/Tests/DiveCoreTests/AlarmCoordinatorTests.swift",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/Tests/DiveCoreTests/AppDistributionTests.swift",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/Tests/DiveCoreTests/AscentAdvisorTests.swift",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/Tests/DiveCoreTests/AscentRateMonitorTests.swift",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/Tests/DiveCoreTests/AscentStressTests.swift",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/Tests/DiveCoreTests/CommerceCoreTests.swift",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/Tests/DiveCoreTests/CommerceSafetyTests.swift",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/Tests/DiveCoreTests/DecoEngineTests.swift",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/Tests/DiveCoreTests/DecoStopPlanTests.swift",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/Tests/DiveCoreTests/DeepStopCalculatorTests.swift",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/Tests/DiveCoreTests/DepthSensorTests.swift",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/Tests/DiveCoreTests/DiveAccessoryDataTests.swift",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/Tests/DiveCoreTests/DiveChartDataTests.swift",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/Tests/DiveCoreTests/DiveComplicationModesTests.swift",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/Tests/DiveCoreTests/DiveComplicationTimelineTests.swift",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/Tests/DiveCoreTests/DiveDisplayTests.swift",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/Tests/DiveCoreTests/DiveExportAndRouteTests.swift",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/Tests/DiveCoreTests/DiveLockControllerTests.swift",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/Tests/DiveCoreTests/DiveLogStoreTests.swift",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/Tests/DiveCoreTests/DiveLogbookTests.swift",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/Tests/DiveCoreTests/DivePhysicsTests.swift",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/Tests/DiveCoreTests/DiveReportDisplayTests.swift",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/Tests/DiveCoreTests/DiveReportTests.swift",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/Tests/DiveCoreTests/DiveSessionControllerTests.swift",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/Tests/DiveCoreTests/DiveSettingsTests.swift",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/Tests/DiveCoreTests/DiveSimulatorTests.swift",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/Tests/DiveCoreTests/DiveStateTests.swift",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/Tests/DiveCoreTests/DiveSyncEngineTests.swift",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/Tests/DiveCoreTests/EnergyOptimizationTests.swift",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/Tests/DiveCoreTests/GasMixTests.swift",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/Tests/DiveCoreTests/GradientFactorsTests.swift",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/Tests/DiveCoreTests/LogEntryTests.swift",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/Tests/DiveCoreTests/OxygenStatusTests.swift",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/Tests/DiveCoreTests/OxygenToxicityTests.swift",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/Tests/DiveCoreTests/RepetitiveDiveDisplayTests.swift",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/Tests/DiveCoreTests/ShallowWaterStressTests.swift",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/Tests/DiveCoreTests/StoreTextTests.swift",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/Tests/DiveCoreTests/SurfaceIntervalCalculationsTests.swift",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/Tests/DiveCoreTests/SurfaceIntervalManagerTests.swift",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/Tests/DiveCoreTests/SyncStressTests.swift",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/Tests/DiveCoreTests/TissueModelTests.swift"
+      ],
+      "tempsPath" : "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveCoreTests.build",
+      "wholeModuleOptimization" : false
+    },
+    "C.DivePhoneUI-arm64-apple-macosx-debug.module" : {
+      "executable" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "fileList" : "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DivePhoneUI.build/sources",
+      "importPath" : "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/Modules",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DivePhoneUI/DiveChartView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DivePhoneUI/DiveDetailScreen.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DivePhoneUI/DiveExportScreen.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DivePhoneUI/DiveRouteMapView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DivePhoneUI/PaywallView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/swift-version--58304C5D6DBC2206.txt"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/Modules/DiveCore.swiftmodule"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/Modules/DiveCharts.swiftmodule"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/Modules/DiveCommerce.swiftmodule"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DivePhoneUI.build/sources"
+        }
+      ],
+      "isLibrary" : true,
+      "moduleName" : "DivePhoneUI",
+      "moduleOutputPath" : "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/Modules/DivePhoneUI.swiftmodule",
+      "objects" : [
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DivePhoneUI.build/DiveChartView.swift.o",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DivePhoneUI.build/DiveDetailScreen.swift.o",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DivePhoneUI.build/DiveExportScreen.swift.o",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DivePhoneUI.build/DiveRouteMapView.swift.o",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DivePhoneUI.build/PaywallView.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "arm64-apple-macosx14.0",
+        "-incremental",
+        "-enable-batch-mode",
+        "-serialize-diagnostics",
+        "-index-store-path",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/index/store",
+        "-Onone",
+        "-enable-testing",
+        "-j8",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+        "-module-cache-path",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-parse-as-library",
+        "-emit-objc-header",
+        "-emit-objc-header-path",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DivePhoneUI.build/include/DivePhoneUI-Swift.h",
+        "-swift-version",
+        "5",
+        "-Xfrontend",
+        "-experimental-lazy-typecheck",
+        "-Xfrontend",
+        "-experimental-skip-all-function-bodies",
+        "-Xfrontend",
+        "-experimental-allow-module-with-compiler-errors",
+        "-Xfrontend",
+        "-empty-abi-descriptor",
+        "-plugin-path",
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/host/plugins/testing",
+        "-sdk",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX27.0.sdk",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-I",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-g",
+        "-Xcc",
+        "-isysroot",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX27.0.sdk",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-Xcc",
+        "-fPIC",
+        "-Xcc",
+        "-g",
+        "-package-name",
+        "divecore_scuba_computer___watchos"
+      ],
+      "outputFileMapPath" : "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DivePhoneUI.build/output-file-map.json",
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/Modules/DivePhoneUI.swiftmodule"
+        }
+      ],
+      "prepareForIndexing" : true,
+      "sources" : [
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DivePhoneUI/DiveChartView.swift",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DivePhoneUI/DiveDetailScreen.swift",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DivePhoneUI/DiveExportScreen.swift",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DivePhoneUI/DiveRouteMapView.swift",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DivePhoneUI/PaywallView.swift"
+      ],
+      "tempsPath" : "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DivePhoneUI.build",
+      "wholeModuleOptimization" : false
+    },
+    "C.DiveStore-arm64-apple-macosx-debug.module" : {
+      "executable" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "fileList" : "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveStore.build/sources",
+      "importPath" : "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/Modules",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveStore/SwiftDataDiveLogStore.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/swift-version--58304C5D6DBC2206.txt"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/Modules/DiveCore.swiftmodule"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveStore.build/sources"
+        }
+      ],
+      "isLibrary" : true,
+      "moduleName" : "DiveStore",
+      "moduleOutputPath" : "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/Modules/DiveStore.swiftmodule",
+      "objects" : [
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveStore.build/SwiftDataDiveLogStore.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "arm64-apple-macosx14.0",
+        "-incremental",
+        "-enable-batch-mode",
+        "-serialize-diagnostics",
+        "-index-store-path",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/index/store",
+        "-Onone",
+        "-enable-testing",
+        "-j8",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+        "-module-cache-path",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-parse-as-library",
+        "-emit-objc-header",
+        "-emit-objc-header-path",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveStore.build/include/DiveStore-Swift.h",
+        "-swift-version",
+        "5",
+        "-Xfrontend",
+        "-experimental-lazy-typecheck",
+        "-Xfrontend",
+        "-experimental-skip-all-function-bodies",
+        "-Xfrontend",
+        "-experimental-allow-module-with-compiler-errors",
+        "-Xfrontend",
+        "-empty-abi-descriptor",
+        "-plugin-path",
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/host/plugins/testing",
+        "-sdk",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX27.0.sdk",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-I",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-g",
+        "-Xcc",
+        "-isysroot",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX27.0.sdk",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-Xcc",
+        "-fPIC",
+        "-Xcc",
+        "-g",
+        "-package-name",
+        "divecore_scuba_computer___watchos"
+      ],
+      "outputFileMapPath" : "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveStore.build/output-file-map.json",
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/Modules/DiveStore.swiftmodule"
+        }
+      ],
+      "prepareForIndexing" : true,
+      "sources" : [
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveStore/SwiftDataDiveLogStore.swift"
+      ],
+      "tempsPath" : "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveStore.build",
+      "wholeModuleOptimization" : false
+    },
+    "C.DiveWatch-arm64-apple-macosx-debug.module" : {
+      "executable" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "fileList" : "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveWatch.build/sources",
+      "importPath" : "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/Modules",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveWatch/CMAltimeterDepthSource.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveWatch/DiveSystem.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveWatch/SurfaceIntervalBackgroundAdapter.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveWatch/WatchHapticEngine.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveWatch/WatchHeadingSource.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveWatch/WatchPowerAdapter.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveWatch/WatchWaterLockAdapter.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/swift-version--58304C5D6DBC2206.txt"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/Modules/DiveCore.swiftmodule"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveWatch.build/sources"
+        }
+      ],
+      "isLibrary" : true,
+      "moduleName" : "DiveWatch",
+      "moduleOutputPath" : "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/Modules/DiveWatch.swiftmodule",
+      "objects" : [
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveWatch.build/CMAltimeterDepthSource.swift.o",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveWatch.build/DiveSystem.swift.o",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveWatch.build/SurfaceIntervalBackgroundAdapter.swift.o",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveWatch.build/WatchHapticEngine.swift.o",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveWatch.build/WatchHeadingSource.swift.o",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveWatch.build/WatchPowerAdapter.swift.o",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveWatch.build/WatchWaterLockAdapter.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "arm64-apple-macosx14.0",
+        "-incremental",
+        "-enable-batch-mode",
+        "-serialize-diagnostics",
+        "-index-store-path",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/index/store",
+        "-Onone",
+        "-enable-testing",
+        "-j8",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+        "-module-cache-path",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-parse-as-library",
+        "-emit-objc-header",
+        "-emit-objc-header-path",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveWatch.build/include/DiveWatch-Swift.h",
+        "-swift-version",
+        "5",
+        "-Xfrontend",
+        "-experimental-lazy-typecheck",
+        "-Xfrontend",
+        "-experimental-skip-all-function-bodies",
+        "-Xfrontend",
+        "-experimental-allow-module-with-compiler-errors",
+        "-Xfrontend",
+        "-empty-abi-descriptor",
+        "-plugin-path",
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/host/plugins/testing",
+        "-sdk",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX27.0.sdk",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-I",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-g",
+        "-Xcc",
+        "-isysroot",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX27.0.sdk",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-Xcc",
+        "-fPIC",
+        "-Xcc",
+        "-g",
+        "-package-name",
+        "divecore_scuba_computer___watchos"
+      ],
+      "outputFileMapPath" : "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveWatch.build/output-file-map.json",
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/Modules/DiveWatch.swiftmodule"
+        }
+      ],
+      "prepareForIndexing" : true,
+      "sources" : [
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveWatch/CMAltimeterDepthSource.swift",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveWatch/DiveSystem.swift",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveWatch/SurfaceIntervalBackgroundAdapter.swift",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveWatch/WatchHapticEngine.swift",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveWatch/WatchHeadingSource.swift",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveWatch/WatchPowerAdapter.swift",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveWatch/WatchWaterLockAdapter.swift"
+      ],
+      "tempsPath" : "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveWatch.build",
+      "wholeModuleOptimization" : false
+    },
+    "C.DiveWatchUI-arm64-apple-macosx-debug.module" : {
+      "executable" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "fileList" : "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveWatchUI.build/sources",
+      "importPath" : "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/Modules",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveWatchUI/DecoScreens.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveWatchUI/DiveActionIntent.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveWatchUI/DiveComplications.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveWatchUI/DiveComponents.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveWatchUI/DiveLockOverlay.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveWatchUI/DiveLogbookScreen.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveWatchUI/DiveReportScreen.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveWatchUI/DiveRootView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveWatchUI/DiveScreen.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveWatchUI/DiveSettingsScreen.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveWatchUI/DiveSurfaceComplications.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveWatchUI/DiveTheme.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveWatchUI/DiveViewModel.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveWatchUI/EnergySettingsScreen.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveWatchUI/RepetitiveDiveScreen.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveWatchUI/WatchPaywallView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/swift-version--58304C5D6DBC2206.txt"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/Modules/DiveCore.swiftmodule"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/Modules/DiveWatch.swiftmodule"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/Modules/DiveCommerce.swiftmodule"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveWatchUI.build/sources"
+        }
+      ],
+      "isLibrary" : true,
+      "moduleName" : "DiveWatchUI",
+      "moduleOutputPath" : "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/Modules/DiveWatchUI.swiftmodule",
+      "objects" : [
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveWatchUI.build/DecoScreens.swift.o",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveWatchUI.build/DiveActionIntent.swift.o",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveWatchUI.build/DiveComplications.swift.o",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveWatchUI.build/DiveComponents.swift.o",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveWatchUI.build/DiveLockOverlay.swift.o",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveWatchUI.build/DiveLogbookScreen.swift.o",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveWatchUI.build/DiveReportScreen.swift.o",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveWatchUI.build/DiveRootView.swift.o",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveWatchUI.build/DiveScreen.swift.o",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveWatchUI.build/DiveSettingsScreen.swift.o",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveWatchUI.build/DiveSurfaceComplications.swift.o",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveWatchUI.build/DiveTheme.swift.o",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveWatchUI.build/DiveViewModel.swift.o",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveWatchUI.build/EnergySettingsScreen.swift.o",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveWatchUI.build/RepetitiveDiveScreen.swift.o",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveWatchUI.build/WatchPaywallView.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "arm64-apple-macosx14.0",
+        "-incremental",
+        "-enable-batch-mode",
+        "-serialize-diagnostics",
+        "-index-store-path",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/index/store",
+        "-Onone",
+        "-enable-testing",
+        "-j8",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+        "-module-cache-path",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-parse-as-library",
+        "-emit-objc-header",
+        "-emit-objc-header-path",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveWatchUI.build/include/DiveWatchUI-Swift.h",
+        "-swift-version",
+        "5",
+        "-Xfrontend",
+        "-experimental-lazy-typecheck",
+        "-Xfrontend",
+        "-experimental-skip-all-function-bodies",
+        "-Xfrontend",
+        "-experimental-allow-module-with-compiler-errors",
+        "-Xfrontend",
+        "-empty-abi-descriptor",
+        "-plugin-path",
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/host/plugins/testing",
+        "-sdk",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX27.0.sdk",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-I",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-g",
+        "-Xcc",
+        "-isysroot",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX27.0.sdk",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-Xcc",
+        "-fPIC",
+        "-Xcc",
+        "-g",
+        "-package-name",
+        "divecore_scuba_computer___watchos"
+      ],
+      "outputFileMapPath" : "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveWatchUI.build/output-file-map.json",
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/Modules/DiveWatchUI.swiftmodule"
+        }
+      ],
+      "prepareForIndexing" : true,
+      "sources" : [
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveWatchUI/DecoScreens.swift",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveWatchUI/DiveActionIntent.swift",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveWatchUI/DiveComplications.swift",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveWatchUI/DiveComponents.swift",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveWatchUI/DiveLockOverlay.swift",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveWatchUI/DiveLogbookScreen.swift",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveWatchUI/DiveReportScreen.swift",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveWatchUI/DiveRootView.swift",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveWatchUI/DiveScreen.swift",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveWatchUI/DiveSettingsScreen.swift",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveWatchUI/DiveSurfaceComplications.swift",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveWatchUI/DiveTheme.swift",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveWatchUI/DiveViewModel.swift",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveWatchUI/EnergySettingsScreen.swift",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveWatchUI/RepetitiveDiveScreen.swift",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveWatchUI/WatchPaywallView.swift"
+      ],
+      "tempsPath" : "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveWatchUI.build",
+      "wholeModuleOptimization" : false
+    },
+    "C.PlistCheck-arm64-apple-macosx-debug.module" : {
+      "executable" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "fileList" : "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/PlistCheck.build/sources",
+      "importPath" : "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/Modules",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Tools/PlistCheck/main.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/swift-version--58304C5D6DBC2206.txt"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/Modules/DiveCore.swiftmodule"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/PlistCheck.build/sources"
+        }
+      ],
+      "isLibrary" : false,
+      "moduleName" : "PlistCheck",
+      "moduleOutputPath" : "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/Modules/PlistCheck.swiftmodule",
+      "objects" : [
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/PlistCheck.build/main.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "arm64-apple-macosx14.0",
+        "-incremental",
+        "-enable-batch-mode",
+        "-serialize-diagnostics",
+        "-index-store-path",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/index/store",
+        "-Onone",
+        "-enable-testing",
+        "-j8",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+        "-module-cache-path",
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-swift-version",
+        "5",
+        "-Xfrontend",
+        "-experimental-lazy-typecheck",
+        "-Xfrontend",
+        "-experimental-skip-all-function-bodies",
+        "-Xfrontend",
+        "-experimental-allow-module-with-compiler-errors",
+        "-Xfrontend",
+        "-empty-abi-descriptor",
+        "-plugin-path",
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/host/plugins/testing",
+        "-sdk",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX27.0.sdk",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-I",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-g",
+        "-Xcc",
+        "-isysroot",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX27.0.sdk",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-Xcc",
+        "-fPIC",
+        "-Xcc",
+        "-g",
+        "-package-name",
+        "divecore_scuba_computer___watchos"
+      ],
+      "outputFileMapPath" : "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/PlistCheck.build/output-file-map.json",
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/Modules/PlistCheck.swiftmodule"
+        }
+      ],
+      "prepareForIndexing" : true,
+      "sources" : [
+        "/Users/mac/DiveCore Scuba Computer - WatchOS/Tools/PlistCheck/main.swift"
+      ],
+      "tempsPath" : "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/PlistCheck.build",
+      "wholeModuleOptimization" : false
+    }
+  },
+  "swiftFrontendCommands" : {
+
+  },
+  "swiftTargetScanArgs" : {
+    "DiveCharts" : [
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "-module-name",
+      "DiveCharts",
+      "-package-name",
+      "divecore_scuba_computer___watchos",
+      "-c",
+      "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCharts/DiveChartViews.swift",
+      "-I",
+      "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/Modules",
+      "-target",
+      "arm64-apple-macosx14.0",
+      "-incremental",
+      "-enable-batch-mode",
+      "-serialize-diagnostics",
+      "-index-store-path",
+      "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/index/store",
+      "-Onone",
+      "-enable-testing",
+      "-j8",
+      "-DSWIFT_PACKAGE",
+      "-DDEBUG",
+      "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+      "-module-cache-path",
+      "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/ModuleCache",
+      "-parseable-output",
+      "-parse-as-library",
+      "-emit-objc-header",
+      "-emit-objc-header-path",
+      "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveCharts.build/include/DiveCharts-Swift.h",
+      "-swift-version",
+      "5",
+      "-Xfrontend",
+      "-experimental-lazy-typecheck",
+      "-Xfrontend",
+      "-experimental-skip-all-function-bodies",
+      "-Xfrontend",
+      "-experimental-allow-module-with-compiler-errors",
+      "-Xfrontend",
+      "-empty-abi-descriptor",
+      "-plugin-path",
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/host/plugins/testing",
+      "-sdk",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX27.0.sdk",
+      "-F",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-I",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-L",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-g",
+      "-Xcc",
+      "-isysroot",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX27.0.sdk",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-Xcc",
+      "-fPIC",
+      "-Xcc",
+      "-g",
+      "-package-name",
+      "divecore_scuba_computer___watchos",
+      "-driver-use-frontend-path",
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+    ],
+    "DiveCheck" : [
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "-module-name",
+      "DiveCheck",
+      "-package-name",
+      "divecore_scuba_computer___watchos",
+      "-c",
+      "/Users/mac/DiveCore Scuba Computer - WatchOS/Tools/DiveCheck/main.swift",
+      "-I",
+      "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/Modules",
+      "-target",
+      "arm64-apple-macosx14.0",
+      "-incremental",
+      "-enable-batch-mode",
+      "-serialize-diagnostics",
+      "-index-store-path",
+      "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/index/store",
+      "-Onone",
+      "-enable-testing",
+      "-j8",
+      "-DSWIFT_PACKAGE",
+      "-DDEBUG",
+      "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+      "-module-cache-path",
+      "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/ModuleCache",
+      "-parseable-output",
+      "-swift-version",
+      "5",
+      "-Xfrontend",
+      "-experimental-lazy-typecheck",
+      "-Xfrontend",
+      "-experimental-skip-all-function-bodies",
+      "-Xfrontend",
+      "-experimental-allow-module-with-compiler-errors",
+      "-Xfrontend",
+      "-empty-abi-descriptor",
+      "-plugin-path",
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/host/plugins/testing",
+      "-sdk",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX27.0.sdk",
+      "-F",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-I",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-L",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-g",
+      "-Xcc",
+      "-isysroot",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX27.0.sdk",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-Xcc",
+      "-fPIC",
+      "-Xcc",
+      "-g",
+      "-package-name",
+      "divecore_scuba_computer___watchos",
+      "-driver-use-frontend-path",
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+    ],
+    "DiveCommerce" : [
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "-module-name",
+      "DiveCommerce",
+      "-package-name",
+      "divecore_scuba_computer___watchos",
+      "-c",
+      "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCommerce/StoreManager.swift",
+      "-I",
+      "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/Modules",
+      "-target",
+      "arm64-apple-macosx14.0",
+      "-incremental",
+      "-enable-batch-mode",
+      "-serialize-diagnostics",
+      "-index-store-path",
+      "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/index/store",
+      "-Onone",
+      "-enable-testing",
+      "-j8",
+      "-DSWIFT_PACKAGE",
+      "-DDEBUG",
+      "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+      "-module-cache-path",
+      "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/ModuleCache",
+      "-parseable-output",
+      "-parse-as-library",
+      "-emit-objc-header",
+      "-emit-objc-header-path",
+      "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveCommerce.build/include/DiveCommerce-Swift.h",
+      "-swift-version",
+      "5",
+      "-Xfrontend",
+      "-experimental-lazy-typecheck",
+      "-Xfrontend",
+      "-experimental-skip-all-function-bodies",
+      "-Xfrontend",
+      "-experimental-allow-module-with-compiler-errors",
+      "-Xfrontend",
+      "-empty-abi-descriptor",
+      "-plugin-path",
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/host/plugins/testing",
+      "-sdk",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX27.0.sdk",
+      "-F",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-I",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-L",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-g",
+      "-Xcc",
+      "-isysroot",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX27.0.sdk",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-Xcc",
+      "-fPIC",
+      "-Xcc",
+      "-g",
+      "-package-name",
+      "divecore_scuba_computer___watchos",
+      "-driver-use-frontend-path",
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+    ],
+    "DiveCore" : [
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "-module-name",
+      "DiveCore",
+      "-package-name",
+      "divecore_scuba_computer___watchos",
+      "-c",
+      "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Managers/DiveConfiguration.swift",
+      "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Managers/DiveLockController.swift",
+      "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Managers/DiveLogStore.swift",
+      "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Managers/DiveLogbook.swift",
+      "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Managers/DiveSessionController.swift",
+      "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Managers/DiveStatistics.swift",
+      "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Managers/FlightAltitudeCalculator.swift",
+      "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Managers/RepetitiveDiveCalculator.swift",
+      "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Managers/SurfaceIntervalManager.swift",
+      "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Models/DepthReading.swift",
+      "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Models/DivePhysics.swift",
+      "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Models/DiveReport.swift",
+      "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Models/DiveState.swift",
+      "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Models/GasBlendPlanner.swift",
+      "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Models/GasMix.swift",
+      "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Models/LogEntry.swift",
+      "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Models/LoggedDive.swift",
+      "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Presentation/CommerceText.swift",
+      "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Presentation/DiveAccessoryData.swift",
+      "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Presentation/DiveChartModel.swift",
+      "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Presentation/DiveComplicationModes.swift",
+      "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Presentation/DiveComplicationTimeline.swift",
+      "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Presentation/DiveDisplay.swift",
+      "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Presentation/DiveReportDisplay.swift",
+      "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Presentation/DiveSettingsDisplay.swift",
+      "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Presentation/DiveThemes.swift",
+      "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Presentation/RepetitiveDiveDisplay.swift",
+      "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Services/AdaptiveSampler.swift",
+      "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Services/AlarmCoordinator.swift",
+      "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Services/AppDistribution.swift",
+      "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Services/AscentAdvisor.swift",
+      "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Services/AscentRateMonitor.swift",
+      "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Services/Commerce/AppPrivacy.swift",
+      "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Services/Commerce/AppStoreListing.swift",
+      "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Services/Commerce/Entitlement.swift",
+      "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Services/Commerce/FeatureGate.swift",
+      "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Services/Commerce/ProductCatalog.swift",
+      "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Services/Commerce/SafetyPolicy.swift",
+      "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Services/DecoEngine.swift",
+      "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Services/DecoStopPlan.swift",
+      "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Services/DeepStopCalculator.swift",
+      "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Services/DepthSensor.swift",
+      "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Services/DiveChartData.swift",
+      "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Services/DiveExportService.swift",
+      "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Services/DiveRoute.swift",
+      "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Services/DiveSimulator.swift",
+      "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Services/DiveSyncEngine.swift",
+      "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Services/EnergyManager.swift",
+      "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Services/FITExporter.swift",
+      "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Services/GradientFactorCatalog.swift",
+      "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Services/GradientFactors.swift",
+      "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Services/OxygenStatus.swift",
+      "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Services/OxygenToxicity.swift",
+      "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Services/TissueModel.swift",
+      "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Services/UDDFExporter.swift",
+      "-I",
+      "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/Modules",
+      "-target",
+      "arm64-apple-macosx14.0",
+      "-incremental",
+      "-enable-batch-mode",
+      "-serialize-diagnostics",
+      "-index-store-path",
+      "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/index/store",
+      "-Onone",
+      "-enable-testing",
+      "-j8",
+      "-DSWIFT_PACKAGE",
+      "-DDEBUG",
+      "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+      "-module-cache-path",
+      "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/ModuleCache",
+      "-parseable-output",
+      "-parse-as-library",
+      "-emit-objc-header",
+      "-emit-objc-header-path",
+      "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveCore.build/include/DiveCore-Swift.h",
+      "-swift-version",
+      "5",
+      "-Xfrontend",
+      "-experimental-lazy-typecheck",
+      "-Xfrontend",
+      "-experimental-skip-all-function-bodies",
+      "-Xfrontend",
+      "-experimental-allow-module-with-compiler-errors",
+      "-Xfrontend",
+      "-empty-abi-descriptor",
+      "-plugin-path",
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/host/plugins/testing",
+      "-sdk",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX27.0.sdk",
+      "-F",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-I",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-L",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-g",
+      "-Xcc",
+      "-isysroot",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX27.0.sdk",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-Xcc",
+      "-fPIC",
+      "-Xcc",
+      "-g",
+      "-package-name",
+      "divecore_scuba_computer___watchos",
+      "-driver-use-frontend-path",
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+    ],
+    "DiveCorePackageTests" : [
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "-module-name",
+      "DiveCorePackageTests",
+      "-package-name",
+      "divecore_scuba_computer___watchos",
+      "-c",
+      "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveCorePackageTests.derived/runner.swift",
+      "-I",
+      "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/Modules",
+      "-target",
+      "arm64-apple-macosx14.0",
+      "-incremental",
+      "-enable-batch-mode",
+      "-serialize-diagnostics",
+      "-index-store-path",
+      "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/index/store",
+      "-Onone",
+      "-enable-testing",
+      "-Xfrontend",
+      "-enable-cross-import-overlays",
+      "-j8",
+      "-DSWIFT_PACKAGE",
+      "-DDEBUG",
+      "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+      "-module-cache-path",
+      "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/ModuleCache",
+      "-parseable-output",
+      "-parse-as-library",
+      "-emit-objc-header",
+      "-emit-objc-header-path",
+      "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveCorePackageTests.build/include/DiveCorePackageTests-Swift.h",
+      "-Xfrontend",
+      "-experimental-lazy-typecheck",
+      "-Xfrontend",
+      "-experimental-skip-all-function-bodies",
+      "-Xfrontend",
+      "-experimental-allow-module-with-compiler-errors",
+      "-Xfrontend",
+      "-empty-abi-descriptor",
+      "-plugin-path",
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/host/plugins/testing",
+      "-sdk",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX27.0.sdk",
+      "-F",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-I",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-L",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-g",
+      "-Xcc",
+      "-isysroot",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX27.0.sdk",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-Xcc",
+      "-fPIC",
+      "-Xcc",
+      "-g",
+      "-package-name",
+      "divecore_scuba_computer___watchos",
+      "-driver-use-frontend-path",
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+    ],
+    "DiveCoreTests" : [
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "-module-name",
+      "DiveCoreTests",
+      "-package-name",
+      "divecore_scuba_computer___watchos",
+      "-c",
+      "/Users/mac/DiveCore Scuba Computer - WatchOS/Tests/DiveCoreTests/AdaptiveSamplingIntegrationTests.swift",
+      "/Users/mac/DiveCore Scuba Computer - WatchOS/Tests/DiveCoreTests/AlarmCoordinatorTests.swift",
+      "/Users/mac/DiveCore Scuba Computer - WatchOS/Tests/DiveCoreTests/AppDistributionTests.swift",
+      "/Users/mac/DiveCore Scuba Computer - WatchOS/Tests/DiveCoreTests/AscentAdvisorTests.swift",
+      "/Users/mac/DiveCore Scuba Computer - WatchOS/Tests/DiveCoreTests/AscentRateMonitorTests.swift",
+      "/Users/mac/DiveCore Scuba Computer - WatchOS/Tests/DiveCoreTests/AscentStressTests.swift",
+      "/Users/mac/DiveCore Scuba Computer - WatchOS/Tests/DiveCoreTests/CommerceCoreTests.swift",
+      "/Users/mac/DiveCore Scuba Computer - WatchOS/Tests/DiveCoreTests/CommerceSafetyTests.swift",
+      "/Users/mac/DiveCore Scuba Computer - WatchOS/Tests/DiveCoreTests/DecoEngineTests.swift",
+      "/Users/mac/DiveCore Scuba Computer - WatchOS/Tests/DiveCoreTests/DecoStopPlanTests.swift",
+      "/Users/mac/DiveCore Scuba Computer - WatchOS/Tests/DiveCoreTests/DeepStopCalculatorTests.swift",
+      "/Users/mac/DiveCore Scuba Computer - WatchOS/Tests/DiveCoreTests/DepthSensorTests.swift",
+      "/Users/mac/DiveCore Scuba Computer - WatchOS/Tests/DiveCoreTests/DiveAccessoryDataTests.swift",
+      "/Users/mac/DiveCore Scuba Computer - WatchOS/Tests/DiveCoreTests/DiveChartDataTests.swift",
+      "/Users/mac/DiveCore Scuba Computer - WatchOS/Tests/DiveCoreTests/DiveComplicationModesTests.swift",
+      "/Users/mac/DiveCore Scuba Computer - WatchOS/Tests/DiveCoreTests/DiveComplicationTimelineTests.swift",
+      "/Users/mac/DiveCore Scuba Computer - WatchOS/Tests/DiveCoreTests/DiveDisplayTests.swift",
+      "/Users/mac/DiveCore Scuba Computer - WatchOS/Tests/DiveCoreTests/DiveExportAndRouteTests.swift",
+      "/Users/mac/DiveCore Scuba Computer - WatchOS/Tests/DiveCoreTests/DiveLockControllerTests.swift",
+      "/Users/mac/DiveCore Scuba Computer - WatchOS/Tests/DiveCoreTests/DiveLogStoreTests.swift",
+      "/Users/mac/DiveCore Scuba Computer - WatchOS/Tests/DiveCoreTests/DiveLogbookTests.swift",
+      "/Users/mac/DiveCore Scuba Computer - WatchOS/Tests/DiveCoreTests/DivePhysicsTests.swift",
+      "/Users/mac/DiveCore Scuba Computer - WatchOS/Tests/DiveCoreTests/DiveReportDisplayTests.swift",
+      "/Users/mac/DiveCore Scuba Computer - WatchOS/Tests/DiveCoreTests/DiveReportTests.swift",
+      "/Users/mac/DiveCore Scuba Computer - WatchOS/Tests/DiveCoreTests/DiveSessionControllerTests.swift",
+      "/Users/mac/DiveCore Scuba Computer - WatchOS/Tests/DiveCoreTests/DiveSettingsTests.swift",
+      "/Users/mac/DiveCore Scuba Computer - WatchOS/Tests/DiveCoreTests/DiveSimulatorTests.swift",
+      "/Users/mac/DiveCore Scuba Computer - WatchOS/Tests/DiveCoreTests/DiveStateTests.swift",
+      "/Users/mac/DiveCore Scuba Computer - WatchOS/Tests/DiveCoreTests/DiveSyncEngineTests.swift",
+      "/Users/mac/DiveCore Scuba Computer - WatchOS/Tests/DiveCoreTests/EnergyOptimizationTests.swift",
+      "/Users/mac/DiveCore Scuba Computer - WatchOS/Tests/DiveCoreTests/GasMixTests.swift",
+      "/Users/mac/DiveCore Scuba Computer - WatchOS/Tests/DiveCoreTests/GradientFactorsTests.swift",
+      "/Users/mac/DiveCore Scuba Computer - WatchOS/Tests/DiveCoreTests/LogEntryTests.swift",
+      "/Users/mac/DiveCore Scuba Computer - WatchOS/Tests/DiveCoreTests/OxygenStatusTests.swift",
+      "/Users/mac/DiveCore Scuba Computer - WatchOS/Tests/DiveCoreTests/OxygenToxicityTests.swift",
+      "/Users/mac/DiveCore Scuba Computer - WatchOS/Tests/DiveCoreTests/RepetitiveDiveDisplayTests.swift",
+      "/Users/mac/DiveCore Scuba Computer - WatchOS/Tests/DiveCoreTests/ShallowWaterStressTests.swift",
+      "/Users/mac/DiveCore Scuba Computer - WatchOS/Tests/DiveCoreTests/StoreTextTests.swift",
+      "/Users/mac/DiveCore Scuba Computer - WatchOS/Tests/DiveCoreTests/SurfaceIntervalCalculationsTests.swift",
+      "/Users/mac/DiveCore Scuba Computer - WatchOS/Tests/DiveCoreTests/SurfaceIntervalManagerTests.swift",
+      "/Users/mac/DiveCore Scuba Computer - WatchOS/Tests/DiveCoreTests/SyncStressTests.swift",
+      "/Users/mac/DiveCore Scuba Computer - WatchOS/Tests/DiveCoreTests/TissueModelTests.swift",
+      "-I",
+      "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/Modules",
+      "-target",
+      "arm64-apple-macosx14.0",
+      "-incremental",
+      "-enable-batch-mode",
+      "-serialize-diagnostics",
+      "-index-store-path",
+      "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/index/store",
+      "-Onone",
+      "-enable-testing",
+      "-Xfrontend",
+      "-enable-cross-import-overlays",
+      "-j8",
+      "-DSWIFT_PACKAGE",
+      "-DDEBUG",
+      "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+      "-module-cache-path",
+      "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/ModuleCache",
+      "-parseable-output",
+      "-parse-as-library",
+      "-swift-version",
+      "5",
+      "-Xfrontend",
+      "-experimental-lazy-typecheck",
+      "-Xfrontend",
+      "-experimental-skip-all-function-bodies",
+      "-Xfrontend",
+      "-experimental-allow-module-with-compiler-errors",
+      "-Xfrontend",
+      "-empty-abi-descriptor",
+      "-plugin-path",
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/host/plugins/testing",
+      "-sdk",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX27.0.sdk",
+      "-F",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-I",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-L",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-g",
+      "-Xcc",
+      "-isysroot",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX27.0.sdk",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-Xcc",
+      "-fPIC",
+      "-Xcc",
+      "-g",
+      "-package-name",
+      "divecore_scuba_computer___watchos",
+      "-driver-use-frontend-path",
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+    ],
+    "DivePhoneUI" : [
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "-module-name",
+      "DivePhoneUI",
+      "-package-name",
+      "divecore_scuba_computer___watchos",
+      "-c",
+      "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DivePhoneUI/DiveChartView.swift",
+      "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DivePhoneUI/DiveDetailScreen.swift",
+      "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DivePhoneUI/DiveExportScreen.swift",
+      "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DivePhoneUI/DiveRouteMapView.swift",
+      "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DivePhoneUI/PaywallView.swift",
+      "-I",
+      "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/Modules",
+      "-target",
+      "arm64-apple-macosx14.0",
+      "-incremental",
+      "-enable-batch-mode",
+      "-serialize-diagnostics",
+      "-index-store-path",
+      "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/index/store",
+      "-Onone",
+      "-enable-testing",
+      "-j8",
+      "-DSWIFT_PACKAGE",
+      "-DDEBUG",
+      "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+      "-module-cache-path",
+      "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/ModuleCache",
+      "-parseable-output",
+      "-parse-as-library",
+      "-emit-objc-header",
+      "-emit-objc-header-path",
+      "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DivePhoneUI.build/include/DivePhoneUI-Swift.h",
+      "-swift-version",
+      "5",
+      "-Xfrontend",
+      "-experimental-lazy-typecheck",
+      "-Xfrontend",
+      "-experimental-skip-all-function-bodies",
+      "-Xfrontend",
+      "-experimental-allow-module-with-compiler-errors",
+      "-Xfrontend",
+      "-empty-abi-descriptor",
+      "-plugin-path",
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/host/plugins/testing",
+      "-sdk",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX27.0.sdk",
+      "-F",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-I",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-L",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-g",
+      "-Xcc",
+      "-isysroot",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX27.0.sdk",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-Xcc",
+      "-fPIC",
+      "-Xcc",
+      "-g",
+      "-package-name",
+      "divecore_scuba_computer___watchos",
+      "-driver-use-frontend-path",
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+    ],
+    "DiveStore" : [
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "-module-name",
+      "DiveStore",
+      "-package-name",
+      "divecore_scuba_computer___watchos",
+      "-c",
+      "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveStore/SwiftDataDiveLogStore.swift",
+      "-I",
+      "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/Modules",
+      "-target",
+      "arm64-apple-macosx14.0",
+      "-incremental",
+      "-enable-batch-mode",
+      "-serialize-diagnostics",
+      "-index-store-path",
+      "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/index/store",
+      "-Onone",
+      "-enable-testing",
+      "-j8",
+      "-DSWIFT_PACKAGE",
+      "-DDEBUG",
+      "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+      "-module-cache-path",
+      "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/ModuleCache",
+      "-parseable-output",
+      "-parse-as-library",
+      "-emit-objc-header",
+      "-emit-objc-header-path",
+      "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveStore.build/include/DiveStore-Swift.h",
+      "-swift-version",
+      "5",
+      "-Xfrontend",
+      "-experimental-lazy-typecheck",
+      "-Xfrontend",
+      "-experimental-skip-all-function-bodies",
+      "-Xfrontend",
+      "-experimental-allow-module-with-compiler-errors",
+      "-Xfrontend",
+      "-empty-abi-descriptor",
+      "-plugin-path",
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/host/plugins/testing",
+      "-sdk",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX27.0.sdk",
+      "-F",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-I",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-L",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-g",
+      "-Xcc",
+      "-isysroot",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX27.0.sdk",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-Xcc",
+      "-fPIC",
+      "-Xcc",
+      "-g",
+      "-package-name",
+      "divecore_scuba_computer___watchos",
+      "-driver-use-frontend-path",
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+    ],
+    "DiveWatch" : [
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "-module-name",
+      "DiveWatch",
+      "-package-name",
+      "divecore_scuba_computer___watchos",
+      "-c",
+      "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveWatch/CMAltimeterDepthSource.swift",
+      "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveWatch/DiveSystem.swift",
+      "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveWatch/SurfaceIntervalBackgroundAdapter.swift",
+      "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveWatch/WatchHapticEngine.swift",
+      "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveWatch/WatchHeadingSource.swift",
+      "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveWatch/WatchPowerAdapter.swift",
+      "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveWatch/WatchWaterLockAdapter.swift",
+      "-I",
+      "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/Modules",
+      "-target",
+      "arm64-apple-macosx14.0",
+      "-incremental",
+      "-enable-batch-mode",
+      "-serialize-diagnostics",
+      "-index-store-path",
+      "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/index/store",
+      "-Onone",
+      "-enable-testing",
+      "-j8",
+      "-DSWIFT_PACKAGE",
+      "-DDEBUG",
+      "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+      "-module-cache-path",
+      "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/ModuleCache",
+      "-parseable-output",
+      "-parse-as-library",
+      "-emit-objc-header",
+      "-emit-objc-header-path",
+      "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveWatch.build/include/DiveWatch-Swift.h",
+      "-swift-version",
+      "5",
+      "-Xfrontend",
+      "-experimental-lazy-typecheck",
+      "-Xfrontend",
+      "-experimental-skip-all-function-bodies",
+      "-Xfrontend",
+      "-experimental-allow-module-with-compiler-errors",
+      "-Xfrontend",
+      "-empty-abi-descriptor",
+      "-plugin-path",
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/host/plugins/testing",
+      "-sdk",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX27.0.sdk",
+      "-F",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-I",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-L",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-g",
+      "-Xcc",
+      "-isysroot",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX27.0.sdk",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-Xcc",
+      "-fPIC",
+      "-Xcc",
+      "-g",
+      "-package-name",
+      "divecore_scuba_computer___watchos",
+      "-driver-use-frontend-path",
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+    ],
+    "DiveWatchUI" : [
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "-module-name",
+      "DiveWatchUI",
+      "-package-name",
+      "divecore_scuba_computer___watchos",
+      "-c",
+      "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveWatchUI/DecoScreens.swift",
+      "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveWatchUI/DiveActionIntent.swift",
+      "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveWatchUI/DiveComplications.swift",
+      "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveWatchUI/DiveComponents.swift",
+      "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveWatchUI/DiveLockOverlay.swift",
+      "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveWatchUI/DiveLogbookScreen.swift",
+      "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveWatchUI/DiveReportScreen.swift",
+      "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveWatchUI/DiveRootView.swift",
+      "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveWatchUI/DiveScreen.swift",
+      "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveWatchUI/DiveSettingsScreen.swift",
+      "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveWatchUI/DiveSurfaceComplications.swift",
+      "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveWatchUI/DiveTheme.swift",
+      "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveWatchUI/DiveViewModel.swift",
+      "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveWatchUI/EnergySettingsScreen.swift",
+      "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveWatchUI/RepetitiveDiveScreen.swift",
+      "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveWatchUI/WatchPaywallView.swift",
+      "-I",
+      "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/Modules",
+      "-target",
+      "arm64-apple-macosx14.0",
+      "-incremental",
+      "-enable-batch-mode",
+      "-serialize-diagnostics",
+      "-index-store-path",
+      "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/index/store",
+      "-Onone",
+      "-enable-testing",
+      "-j8",
+      "-DSWIFT_PACKAGE",
+      "-DDEBUG",
+      "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+      "-module-cache-path",
+      "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/ModuleCache",
+      "-parseable-output",
+      "-parse-as-library",
+      "-emit-objc-header",
+      "-emit-objc-header-path",
+      "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveWatchUI.build/include/DiveWatchUI-Swift.h",
+      "-swift-version",
+      "5",
+      "-Xfrontend",
+      "-experimental-lazy-typecheck",
+      "-Xfrontend",
+      "-experimental-skip-all-function-bodies",
+      "-Xfrontend",
+      "-experimental-allow-module-with-compiler-errors",
+      "-Xfrontend",
+      "-empty-abi-descriptor",
+      "-plugin-path",
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/host/plugins/testing",
+      "-sdk",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX27.0.sdk",
+      "-F",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-I",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-L",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-g",
+      "-Xcc",
+      "-isysroot",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX27.0.sdk",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-Xcc",
+      "-fPIC",
+      "-Xcc",
+      "-g",
+      "-package-name",
+      "divecore_scuba_computer___watchos",
+      "-driver-use-frontend-path",
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+    ],
+    "PlistCheck" : [
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "-module-name",
+      "PlistCheck",
+      "-package-name",
+      "divecore_scuba_computer___watchos",
+      "-c",
+      "/Users/mac/DiveCore Scuba Computer - WatchOS/Tools/PlistCheck/main.swift",
+      "-I",
+      "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/Modules",
+      "-target",
+      "arm64-apple-macosx14.0",
+      "-incremental",
+      "-enable-batch-mode",
+      "-serialize-diagnostics",
+      "-index-store-path",
+      "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/index/store",
+      "-Onone",
+      "-enable-testing",
+      "-j8",
+      "-DSWIFT_PACKAGE",
+      "-DDEBUG",
+      "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+      "-module-cache-path",
+      "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/ModuleCache",
+      "-parseable-output",
+      "-swift-version",
+      "5",
+      "-Xfrontend",
+      "-experimental-lazy-typecheck",
+      "-Xfrontend",
+      "-experimental-skip-all-function-bodies",
+      "-Xfrontend",
+      "-experimental-allow-module-with-compiler-errors",
+      "-Xfrontend",
+      "-empty-abi-descriptor",
+      "-plugin-path",
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/host/plugins/testing",
+      "-sdk",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX27.0.sdk",
+      "-F",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-I",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-L",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-g",
+      "-Xcc",
+      "-isysroot",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX27.0.sdk",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-Xcc",
+      "-fPIC",
+      "-Xcc",
+      "-g",
+      "-package-name",
+      "divecore_scuba_computer___watchos",
+      "-driver-use-frontend-path",
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+    ]
+  },
+  "targetDependencyMap" : {
+    "DiveCharts" : [
+      "DiveCore"
+    ],
+    "DiveCheck" : [
+      "DiveCore"
+    ],
+    "DiveCommerce" : [
+      "DiveCore"
+    ],
+    "DiveCore" : [
+
+    ],
+    "DiveCorePackageTests" : [
+      "DiveCoreTests",
+      "DiveCore"
+    ],
+    "DiveCoreTests" : [
+      "DiveCore"
+    ],
+    "DivePhoneUI" : [
+      "DiveCommerce",
+      "DiveCharts",
+      "DiveCore"
+    ],
+    "DiveStore" : [
+      "DiveCore"
+    ],
+    "DiveWatch" : [
+      "DiveCore"
+    ],
+    "DiveWatchUI" : [
+      "DiveCommerce",
+      "DiveWatch",
+      "DiveCore"
+    ],
+    "PlistCheck" : [
+      "DiveCore"
+    ]
+  },
+  "testDiscoveryCommands" : {
+
+  },
+  "testEntryPointCommands" : {
+
+  },
+  "traitConfiguration" : {
+    "default" : [
+      {
+
+      }
+    ]
+  },
+  "writeCommands" : {
+    "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveCharts.build/sources" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<sources-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCharts/DiveChartViews.swift"
+        }
+      ],
+      "outputFilePath" : "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveCharts.build/sources"
+    },
+    "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveCheck.build/sources" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<sources-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Tools/DiveCheck/main.swift"
+        }
+      ],
+      "outputFilePath" : "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveCheck.build/sources"
+    },
+    "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveCommerce.build/sources" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<sources-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCommerce/StoreManager.swift"
+        }
+      ],
+      "outputFilePath" : "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveCommerce.build/sources"
+    },
+    "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveCore.build/sources" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<sources-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Managers/DiveConfiguration.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Managers/DiveLockController.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Managers/DiveLogStore.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Managers/DiveLogbook.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Managers/DiveSessionController.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Managers/DiveStatistics.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Managers/FlightAltitudeCalculator.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Managers/RepetitiveDiveCalculator.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Managers/SurfaceIntervalManager.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Models/DepthReading.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Models/DivePhysics.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Models/DiveReport.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Models/DiveState.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Models/GasBlendPlanner.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Models/GasMix.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Models/LogEntry.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Models/LoggedDive.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Presentation/CommerceText.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Presentation/DiveAccessoryData.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Presentation/DiveChartModel.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Presentation/DiveComplicationModes.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Presentation/DiveComplicationTimeline.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Presentation/DiveDisplay.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Presentation/DiveReportDisplay.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Presentation/DiveSettingsDisplay.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Presentation/DiveThemes.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Presentation/RepetitiveDiveDisplay.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Services/AdaptiveSampler.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Services/AlarmCoordinator.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Services/AppDistribution.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Services/AscentAdvisor.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Services/AscentRateMonitor.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Services/Commerce/AppPrivacy.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Services/Commerce/AppStoreListing.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Services/Commerce/Entitlement.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Services/Commerce/FeatureGate.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Services/Commerce/ProductCatalog.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Services/Commerce/SafetyPolicy.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Services/DecoEngine.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Services/DecoStopPlan.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Services/DeepStopCalculator.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Services/DepthSensor.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Services/DiveChartData.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Services/DiveExportService.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Services/DiveRoute.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Services/DiveSimulator.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Services/DiveSyncEngine.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Services/EnergyManager.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Services/FITExporter.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Services/GradientFactorCatalog.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Services/GradientFactors.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Services/OxygenStatus.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Services/OxygenToxicity.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Services/TissueModel.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCore/Services/UDDFExporter.swift"
+        }
+      ],
+      "outputFilePath" : "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveCore.build/sources"
+    },
+    "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveCorePackageTests.build/sources" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<sources-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveCorePackageTests.derived/runner.swift"
+        }
+      ],
+      "outputFilePath" : "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveCorePackageTests.build/sources"
+    },
+    "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveCoreTests.build/sources" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<sources-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Tests/DiveCoreTests/AdaptiveSamplingIntegrationTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Tests/DiveCoreTests/AlarmCoordinatorTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Tests/DiveCoreTests/AppDistributionTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Tests/DiveCoreTests/AscentAdvisorTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Tests/DiveCoreTests/AscentRateMonitorTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Tests/DiveCoreTests/AscentStressTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Tests/DiveCoreTests/CommerceCoreTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Tests/DiveCoreTests/CommerceSafetyTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Tests/DiveCoreTests/DecoEngineTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Tests/DiveCoreTests/DecoStopPlanTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Tests/DiveCoreTests/DeepStopCalculatorTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Tests/DiveCoreTests/DepthSensorTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Tests/DiveCoreTests/DiveAccessoryDataTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Tests/DiveCoreTests/DiveChartDataTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Tests/DiveCoreTests/DiveComplicationModesTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Tests/DiveCoreTests/DiveComplicationTimelineTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Tests/DiveCoreTests/DiveDisplayTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Tests/DiveCoreTests/DiveExportAndRouteTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Tests/DiveCoreTests/DiveLockControllerTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Tests/DiveCoreTests/DiveLogStoreTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Tests/DiveCoreTests/DiveLogbookTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Tests/DiveCoreTests/DivePhysicsTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Tests/DiveCoreTests/DiveReportDisplayTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Tests/DiveCoreTests/DiveReportTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Tests/DiveCoreTests/DiveSessionControllerTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Tests/DiveCoreTests/DiveSettingsTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Tests/DiveCoreTests/DiveSimulatorTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Tests/DiveCoreTests/DiveStateTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Tests/DiveCoreTests/DiveSyncEngineTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Tests/DiveCoreTests/EnergyOptimizationTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Tests/DiveCoreTests/GasMixTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Tests/DiveCoreTests/GradientFactorsTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Tests/DiveCoreTests/LogEntryTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Tests/DiveCoreTests/OxygenStatusTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Tests/DiveCoreTests/OxygenToxicityTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Tests/DiveCoreTests/RepetitiveDiveDisplayTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Tests/DiveCoreTests/ShallowWaterStressTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Tests/DiveCoreTests/StoreTextTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Tests/DiveCoreTests/SurfaceIntervalCalculationsTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Tests/DiveCoreTests/SurfaceIntervalManagerTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Tests/DiveCoreTests/SyncStressTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Tests/DiveCoreTests/TissueModelTests.swift"
+        }
+      ],
+      "outputFilePath" : "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveCoreTests.build/sources"
+    },
+    "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DivePhoneUI.build/sources" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<sources-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DivePhoneUI/DiveChartView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DivePhoneUI/DiveDetailScreen.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DivePhoneUI/DiveExportScreen.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DivePhoneUI/DiveRouteMapView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DivePhoneUI/PaywallView.swift"
+        }
+      ],
+      "outputFilePath" : "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DivePhoneUI.build/sources"
+    },
+    "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveStore.build/sources" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<sources-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveStore/SwiftDataDiveLogStore.swift"
+        }
+      ],
+      "outputFilePath" : "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveStore.build/sources"
+    },
+    "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveWatch.build/sources" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<sources-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveWatch/CMAltimeterDepthSource.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveWatch/DiveSystem.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveWatch/SurfaceIntervalBackgroundAdapter.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveWatch/WatchHapticEngine.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveWatch/WatchHeadingSource.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveWatch/WatchPowerAdapter.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveWatch/WatchWaterLockAdapter.swift"
+        }
+      ],
+      "outputFilePath" : "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveWatch.build/sources"
+    },
+    "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveWatchUI.build/sources" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<sources-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveWatchUI/DecoScreens.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveWatchUI/DiveActionIntent.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveWatchUI/DiveComplications.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveWatchUI/DiveComponents.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveWatchUI/DiveLockOverlay.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveWatchUI/DiveLogbookScreen.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveWatchUI/DiveReportScreen.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveWatchUI/DiveRootView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveWatchUI/DiveScreen.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveWatchUI/DiveSettingsScreen.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveWatchUI/DiveSurfaceComplications.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveWatchUI/DiveTheme.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveWatchUI/DiveViewModel.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveWatchUI/EnergySettingsScreen.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveWatchUI/RepetitiveDiveScreen.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveWatchUI/WatchPaywallView.swift"
+        }
+      ],
+      "outputFilePath" : "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveWatchUI.build/sources"
+    },
+    "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/PlistCheck.build/sources" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<sources-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/DiveCore Scuba Computer - WatchOS/Tools/PlistCheck/main.swift"
+        }
+      ],
+      "outputFilePath" : "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/PlistCheck.build/sources"
+    },
+    "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/swift-version--58304C5D6DBC2206.txt" : {
+      "alwaysOutOfDate" : true,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<swift-get-version>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+        }
+      ],
+      "outputFilePath" : "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/swift-version--58304C5D6DBC2206.txt"
+    }
+  }
+}

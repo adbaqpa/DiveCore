@@ -1,0 +1,4 @@
+module DiveWatch {
+    header "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveWatch.build/DiveWatch-Swift.h"
+    requires objc
+}

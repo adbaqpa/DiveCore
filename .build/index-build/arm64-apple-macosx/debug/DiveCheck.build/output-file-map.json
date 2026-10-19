@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveCheck.build/primary.swiftdeps"
+  },
+  "/Users/mac/DiveCore Scuba Computer - WatchOS/Tools/DiveCheck/main.swift": {
+    "dependencies": "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveCheck.build/main.d",
+    "object": "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveCheck.build/main.swift.o",
+    "swiftmodule": "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveCheck.build/main~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveCheck.build/main.swiftdeps",
+    "diagnostics": "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveCheck.build/main.dia"  }
+}

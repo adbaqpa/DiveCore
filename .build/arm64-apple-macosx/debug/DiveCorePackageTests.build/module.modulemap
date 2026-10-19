@@ -1,0 +1,4 @@
+module DiveCorePackageTests {
+    header "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveCorePackageTests.build/DiveCorePackageTests-Swift.h"
+    requires objc
+}

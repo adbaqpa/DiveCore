@@ -1,0 +1,25 @@
+// ADIM 13 — ortak derleme ayarları (tüm hedefler)
+//
+// Kullanım: Xcode projesinde "Based on Configuration File" olarak seçilir.
+// Sürüm ve build numarası tek kaynaktan (AppDistribution) okunmalıdır.
+
+PRODUCT_BUNDLE_IDENTIFIER_BASE = com.divelog
+MARKETING_VERSION = 1.0.0
+CURRENT_PROJECT_VERSION = 1
+
+// Hata ve uyarı düzeyi — Release'de uyarı hata sayılır
+SWIFT_TREAT_WARNINGS_AS_ERRORS = YES
+GCC_TREAT_WARNINGS_AS_ERRORS = YES
+SWIFT_STRICT_CONCURRENCY = complete
+SWIFT_UPCOMING_FEATURE_CONCISE_MAGIC_FILE = YES
+ENABLE_USER_SCRIPT_SANDBOXING = YES
+
+// Swift dil düzeyi
+SWIFT_VERSION = 5.0
+
+// Hedeften bağımsız ayarlar
+TARGETED_DEVICE_FAMILY = 1,2
+SUPPORTS_MACCATALYST = NO
+SUPPORTED_PLATFORMS = iphoneos iphonesimulator watchos watchsimulator
+CODE_SIGN_STYLE = Automatic
+DEVELOPMENT_TEAM = $(DEVELOPMENT_TEAM)

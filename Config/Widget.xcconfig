@@ -1,0 +1,9 @@
+// ADIM 13 — komplikasyon (WidgetKit) uzantısı
+#include "Release.xcconfig"
+
+PRODUCT_BUNDLE_IDENTIFIER = $(PRODUCT_BUNDLE_IDENTIFIER_BASE).watch.complications
+TARGETED_DEVICE_FAMILY = 4
+SUPPORTED_PLATFORMS = watchos watchsimulator
+WATCHOS_DEPLOYMENT_TARGET = 10.0
+INFOPLIST_FILE = App/WidgetExtension/Info.plist
+SKIP_INSTALL = YES

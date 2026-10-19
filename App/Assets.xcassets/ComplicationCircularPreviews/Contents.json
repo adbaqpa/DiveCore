@@ -1,0 +1,29 @@
+{
+  "images" : [
+    {
+      "appearances" : [ "watch", "watch-classic" ],
+      "filename" : "ComplicationCircular-Classic.png",
+      "idiom" : "watch",
+      "scale" : "1x",
+      "size" : "44x44"
+    },
+    {
+      "appearances" : [ "watch", "watch-classic" ],
+      "filename" : "ComplicationCircular-Modular.png",
+      "idiom" : "watch",
+      "scale" : "1x",
+      "size" : "52x52"
+    },
+    {
+      "appearances" : [ "watch", "watch-classic" ],
+      "filename" : "ComplicationCircular-Corner.png",
+      "idiom" : "watch",
+      "scale" : "1x",
+      "size" : "40x40"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "": {
+    "swift-dependencies": "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveWatchUI.build/primary.swiftdeps"
+  },
+  "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveWatchUI/DecoScreens.swift": {
+    "dependencies": "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveWatchUI.build/DecoScreens.d",
+    "object": "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveWatchUI.build/DecoScreens.swift.o",
+    "swiftmodule": "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveWatchUI.build/DecoScreens~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveWatchUI.build/DecoScreens.swiftdeps",
+    "diagnostics": "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveWatchUI.build/DecoScreens.dia"  },
+  "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveWatchUI/DiveActionIntent.swift": {
+    "dependencies": "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveWatchUI.build/DiveActionIntent.d",
+    "object": "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveWatchUI.build/DiveActionIntent.swift.o",
+    "swiftmodule": "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveWatchUI.build/DiveActionIntent~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveWatchUI.build/DiveActionIntent.swiftdeps",
+    "diagnostics": "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveWatchUI.build/DiveActionIntent.dia"  },
+  "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveWatchUI/DiveComplications.swift": {
+    "dependencies": "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveWatchUI.build/DiveComplications.d",
+    "object": "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveWatchUI.build/DiveComplications.swift.o",
+    "swiftmodule": "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveWatchUI.build/DiveComplications~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveWatchUI.build/DiveComplications.swiftdeps",
+    "diagnostics": "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveWatchUI.build/DiveComplications.dia"  },
+  "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveWatchUI/DiveComponents.swift": {
+    "dependencies": "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveWatchUI.build/DiveComponents.d",
+    "object": "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveWatchUI.build/DiveComponents.swift.o",
+    "swiftmodule": "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveWatchUI.build/DiveComponents~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveWatchUI.build/DiveComponents.swiftdeps",
+    "diagnostics": "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveWatchUI.build/DiveComponents.dia"  },
+  "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveWatchUI/DiveLockOverlay.swift": {
+    "dependencies": "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveWatchUI.build/DiveLockOverlay.d",
+    "object": "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveWatchUI.build/DiveLockOverlay.swift.o",
+    "swiftmodule": "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveWatchUI.build/DiveLockOverlay~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveWatchUI.build/DiveLockOverlay.swiftdeps",
+    "diagnostics": "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveWatchUI.build/DiveLockOverlay.dia"  },
+  "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveWatchUI/DiveLogbookScreen.swift": {
+    "dependencies": "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveWatchUI.build/DiveLogbookScreen.d",
+    "object": "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveWatchUI.build/DiveLogbookScreen.swift.o",
+    "swiftmodule": "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveWatchUI.build/DiveLogbookScreen~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveWatchUI.build/DiveLogbookScreen.swiftdeps",
+    "diagnostics": "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveWatchUI.build/DiveLogbookScreen.dia"  },
+  "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveWatchUI/DiveReportScreen.swift": {
+    "dependencies": "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveWatchUI.build/DiveReportScreen.d",
+    "object": "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveWatchUI.build/DiveReportScreen.swift.o",
+    "swiftmodule": "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveWatchUI.build/DiveReportScreen~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveWatchUI.build/DiveReportScreen.swiftdeps",
+    "diagnostics": "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveWatchUI.build/DiveReportScreen.dia"  },
+  "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveWatchUI/DiveRootView.swift": {
+    "dependencies": "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveWatchUI.build/DiveRootView.d",
+    "object": "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveWatchUI.build/DiveRootView.swift.o",
+    "swiftmodule": "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveWatchUI.build/DiveRootView~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveWatchUI.build/DiveRootView.swiftdeps",
+    "diagnostics": "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveWatchUI.build/DiveRootView.dia"  },
+  "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveWatchUI/DiveScreen.swift": {
+    "dependencies": "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveWatchUI.build/DiveScreen.d",
+    "object": "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveWatchUI.build/DiveScreen.swift.o",
+    "swiftmodule": "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveWatchUI.build/DiveScreen~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveWatchUI.build/DiveScreen.swiftdeps",
+    "diagnostics": "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveWatchUI.build/DiveScreen.dia"  },
+  "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveWatchUI/DiveSettingsScreen.swift": {
+    "dependencies": "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveWatchUI.build/DiveSettingsScreen.d",
+    "object": "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveWatchUI.build/DiveSettingsScreen.swift.o",
+    "swiftmodule": "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveWatchUI.build/DiveSettingsScreen~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveWatchUI.build/DiveSettingsScreen.swiftdeps",
+    "diagnostics": "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveWatchUI.build/DiveSettingsScreen.dia"  },
+  "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveWatchUI/DiveSurfaceComplications.swift": {
+    "dependencies": "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveWatchUI.build/DiveSurfaceComplications.d",
+    "object": "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveWatchUI.build/DiveSurfaceComplications.swift.o",
+    "swiftmodule": "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveWatchUI.build/DiveSurfaceComplications~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveWatchUI.build/DiveSurfaceComplications.swiftdeps",
+    "diagnostics": "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveWatchUI.build/DiveSurfaceComplications.dia"  },
+  "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveWatchUI/DiveTheme.swift": {
+    "dependencies": "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveWatchUI.build/DiveTheme.d",
+    "object": "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveWatchUI.build/DiveTheme.swift.o",
+    "swiftmodule": "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveWatchUI.build/DiveTheme~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveWatchUI.build/DiveTheme.swiftdeps",
+    "diagnostics": "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveWatchUI.build/DiveTheme.dia"  },
+  "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveWatchUI/DiveViewModel.swift": {
+    "dependencies": "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveWatchUI.build/DiveViewModel.d",
+    "object": "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveWatchUI.build/DiveViewModel.swift.o",
+    "swiftmodule": "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveWatchUI.build/DiveViewModel~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveWatchUI.build/DiveViewModel.swiftdeps",
+    "diagnostics": "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveWatchUI.build/DiveViewModel.dia"  },
+  "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveWatchUI/EnergySettingsScreen.swift": {
+    "dependencies": "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveWatchUI.build/EnergySettingsScreen.d",
+    "object": "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveWatchUI.build/EnergySettingsScreen.swift.o",
+    "swiftmodule": "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveWatchUI.build/EnergySettingsScreen~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveWatchUI.build/EnergySettingsScreen.swiftdeps",
+    "diagnostics": "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveWatchUI.build/EnergySettingsScreen.dia"  },
+  "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveWatchUI/RepetitiveDiveScreen.swift": {
+    "dependencies": "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveWatchUI.build/RepetitiveDiveScreen.d",
+    "object": "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveWatchUI.build/RepetitiveDiveScreen.swift.o",
+    "swiftmodule": "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveWatchUI.build/RepetitiveDiveScreen~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveWatchUI.build/RepetitiveDiveScreen.swiftdeps",
+    "diagnostics": "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveWatchUI.build/RepetitiveDiveScreen.dia"  },
+  "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveWatchUI/WatchPaywallView.swift": {
+    "dependencies": "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveWatchUI.build/WatchPaywallView.d",
+    "object": "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveWatchUI.build/WatchPaywallView.swift.o",
+    "swiftmodule": "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveWatchUI.build/WatchPaywallView~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveWatchUI.build/WatchPaywallView.swiftdeps",
+    "diagnostics": "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveWatchUI.build/WatchPaywallView.dia"  }
+}

@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveCommerce.build/primary.swiftdeps"
+  },
+  "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveCommerce/StoreManager.swift": {
+    "dependencies": "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveCommerce.build/StoreManager.d",
+    "object": "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveCommerce.build/StoreManager.swift.o",
+    "swiftmodule": "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveCommerce.build/StoreManager~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveCommerce.build/StoreManager.swiftdeps",
+    "diagnostics": "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveCommerce.build/StoreManager.dia"  }
+}

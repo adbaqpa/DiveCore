@@ -1,0 +1,257 @@
+{
+  "": {
+    "swift-dependencies": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveCoreTests.build/master.swiftdeps"
+  },
+  "/Users/mac/Proje1/Tests/DiveCoreTests/AdaptiveSamplingIntegrationTests.swift": {
+    "dependencies": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveCoreTests.build/AdaptiveSamplingIntegrationTests.d",
+    "object": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveCoreTests.build/AdaptiveSamplingIntegrationTests.swift.o",
+    "swiftmodule": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveCoreTests.build/AdaptiveSamplingIntegrationTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveCoreTests.build/AdaptiveSamplingIntegrationTests.swiftdeps"
+  },
+  "/Users/mac/Proje1/Tests/DiveCoreTests/AlarmCoordinatorTests.swift": {
+    "dependencies": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveCoreTests.build/AlarmCoordinatorTests.d",
+    "object": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveCoreTests.build/AlarmCoordinatorTests.swift.o",
+    "swiftmodule": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveCoreTests.build/AlarmCoordinatorTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveCoreTests.build/AlarmCoordinatorTests.swiftdeps"
+  },
+  "/Users/mac/Proje1/Tests/DiveCoreTests/AppDistributionTests.swift": {
+    "dependencies": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveCoreTests.build/AppDistributionTests.d",
+    "object": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveCoreTests.build/AppDistributionTests.swift.o",
+    "swiftmodule": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveCoreTests.build/AppDistributionTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveCoreTests.build/AppDistributionTests.swiftdeps"
+  },
+  "/Users/mac/Proje1/Tests/DiveCoreTests/AscentAdvisorTests.swift": {
+    "dependencies": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveCoreTests.build/AscentAdvisorTests.d",
+    "object": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveCoreTests.build/AscentAdvisorTests.swift.o",
+    "swiftmodule": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveCoreTests.build/AscentAdvisorTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveCoreTests.build/AscentAdvisorTests.swiftdeps"
+  },
+  "/Users/mac/Proje1/Tests/DiveCoreTests/AscentRateMonitorTests.swift": {
+    "dependencies": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveCoreTests.build/AscentRateMonitorTests.d",
+    "object": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveCoreTests.build/AscentRateMonitorTests.swift.o",
+    "swiftmodule": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveCoreTests.build/AscentRateMonitorTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveCoreTests.build/AscentRateMonitorTests.swiftdeps"
+  },
+  "/Users/mac/Proje1/Tests/DiveCoreTests/AscentStressTests.swift": {
+    "dependencies": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveCoreTests.build/AscentStressTests.d",
+    "object": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveCoreTests.build/AscentStressTests.swift.o",
+    "swiftmodule": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveCoreTests.build/AscentStressTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveCoreTests.build/AscentStressTests.swiftdeps"
+  },
+  "/Users/mac/Proje1/Tests/DiveCoreTests/CommerceCoreTests.swift": {
+    "dependencies": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveCoreTests.build/CommerceCoreTests.d",
+    "object": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveCoreTests.build/CommerceCoreTests.swift.o",
+    "swiftmodule": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveCoreTests.build/CommerceCoreTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveCoreTests.build/CommerceCoreTests.swiftdeps"
+  },
+  "/Users/mac/Proje1/Tests/DiveCoreTests/CommerceSafetyTests.swift": {
+    "dependencies": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveCoreTests.build/CommerceSafetyTests.d",
+    "object": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveCoreTests.build/CommerceSafetyTests.swift.o",
+    "swiftmodule": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveCoreTests.build/CommerceSafetyTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveCoreTests.build/CommerceSafetyTests.swiftdeps"
+  },
+  "/Users/mac/Proje1/Tests/DiveCoreTests/DecoEngineTests.swift": {
+    "dependencies": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveCoreTests.build/DecoEngineTests.d",
+    "object": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveCoreTests.build/DecoEngineTests.swift.o",
+    "swiftmodule": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveCoreTests.build/DecoEngineTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveCoreTests.build/DecoEngineTests.swiftdeps"
+  },
+  "/Users/mac/Proje1/Tests/DiveCoreTests/DecoStopPlanTests.swift": {
+    "dependencies": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveCoreTests.build/DecoStopPlanTests.d",
+    "object": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveCoreTests.build/DecoStopPlanTests.swift.o",
+    "swiftmodule": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveCoreTests.build/DecoStopPlanTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveCoreTests.build/DecoStopPlanTests.swiftdeps"
+  },
+  "/Users/mac/Proje1/Tests/DiveCoreTests/DeepStopCalculatorTests.swift": {
+    "dependencies": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveCoreTests.build/DeepStopCalculatorTests.d",
+    "object": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveCoreTests.build/DeepStopCalculatorTests.swift.o",
+    "swiftmodule": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveCoreTests.build/DeepStopCalculatorTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveCoreTests.build/DeepStopCalculatorTests.swiftdeps"
+  },
+  "/Users/mac/Proje1/Tests/DiveCoreTests/DepthSensorTests.swift": {
+    "dependencies": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveCoreTests.build/DepthSensorTests.d",
+    "object": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveCoreTests.build/DepthSensorTests.swift.o",
+    "swiftmodule": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveCoreTests.build/DepthSensorTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveCoreTests.build/DepthSensorTests.swiftdeps"
+  },
+  "/Users/mac/Proje1/Tests/DiveCoreTests/DiveAccessoryDataTests.swift": {
+    "dependencies": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveCoreTests.build/DiveAccessoryDataTests.d",
+    "object": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveCoreTests.build/DiveAccessoryDataTests.swift.o",
+    "swiftmodule": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveCoreTests.build/DiveAccessoryDataTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveCoreTests.build/DiveAccessoryDataTests.swiftdeps"
+  },
+  "/Users/mac/Proje1/Tests/DiveCoreTests/DiveChartDataTests.swift": {
+    "dependencies": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveCoreTests.build/DiveChartDataTests.d",
+    "object": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveCoreTests.build/DiveChartDataTests.swift.o",
+    "swiftmodule": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveCoreTests.build/DiveChartDataTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveCoreTests.build/DiveChartDataTests.swiftdeps"
+  },
+  "/Users/mac/Proje1/Tests/DiveCoreTests/DiveComplicationModesTests.swift": {
+    "dependencies": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveCoreTests.build/DiveComplicationModesTests.d",
+    "object": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveCoreTests.build/DiveComplicationModesTests.swift.o",
+    "swiftmodule": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveCoreTests.build/DiveComplicationModesTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveCoreTests.build/DiveComplicationModesTests.swiftdeps"
+  },
+  "/Users/mac/Proje1/Tests/DiveCoreTests/DiveComplicationTimelineTests.swift": {
+    "dependencies": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveCoreTests.build/DiveComplicationTimelineTests.d",
+    "object": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveCoreTests.build/DiveComplicationTimelineTests.swift.o",
+    "swiftmodule": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveCoreTests.build/DiveComplicationTimelineTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveCoreTests.build/DiveComplicationTimelineTests.swiftdeps"
+  },
+  "/Users/mac/Proje1/Tests/DiveCoreTests/DiveDisplayTests.swift": {
+    "dependencies": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveCoreTests.build/DiveDisplayTests.d",
+    "object": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveCoreTests.build/DiveDisplayTests.swift.o",
+    "swiftmodule": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveCoreTests.build/DiveDisplayTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveCoreTests.build/DiveDisplayTests.swiftdeps"
+  },
+  "/Users/mac/Proje1/Tests/DiveCoreTests/DiveExportAndRouteTests.swift": {
+    "dependencies": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveCoreTests.build/DiveExportAndRouteTests.d",
+    "object": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveCoreTests.build/DiveExportAndRouteTests.swift.o",
+    "swiftmodule": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveCoreTests.build/DiveExportAndRouteTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveCoreTests.build/DiveExportAndRouteTests.swiftdeps"
+  },
+  "/Users/mac/Proje1/Tests/DiveCoreTests/DiveLockControllerTests.swift": {
+    "dependencies": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveCoreTests.build/DiveLockControllerTests.d",
+    "object": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveCoreTests.build/DiveLockControllerTests.swift.o",
+    "swiftmodule": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveCoreTests.build/DiveLockControllerTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveCoreTests.build/DiveLockControllerTests.swiftdeps"
+  },
+  "/Users/mac/Proje1/Tests/DiveCoreTests/DiveLogStoreTests.swift": {
+    "dependencies": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveCoreTests.build/DiveLogStoreTests.d",
+    "object": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveCoreTests.build/DiveLogStoreTests.swift.o",
+    "swiftmodule": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveCoreTests.build/DiveLogStoreTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveCoreTests.build/DiveLogStoreTests.swiftdeps"
+  },
+  "/Users/mac/Proje1/Tests/DiveCoreTests/DiveLogbookTests.swift": {
+    "dependencies": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveCoreTests.build/DiveLogbookTests.d",
+    "object": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveCoreTests.build/DiveLogbookTests.swift.o",
+    "swiftmodule": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveCoreTests.build/DiveLogbookTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveCoreTests.build/DiveLogbookTests.swiftdeps"
+  },
+  "/Users/mac/Proje1/Tests/DiveCoreTests/DivePhysicsTests.swift": {
+    "dependencies": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveCoreTests.build/DivePhysicsTests.d",
+    "object": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveCoreTests.build/DivePhysicsTests.swift.o",
+    "swiftmodule": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveCoreTests.build/DivePhysicsTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveCoreTests.build/DivePhysicsTests.swiftdeps"
+  },
+  "/Users/mac/Proje1/Tests/DiveCoreTests/DiveReportDisplayTests.swift": {
+    "dependencies": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveCoreTests.build/DiveReportDisplayTests.d",
+    "object": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveCoreTests.build/DiveReportDisplayTests.swift.o",
+    "swiftmodule": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveCoreTests.build/DiveReportDisplayTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveCoreTests.build/DiveReportDisplayTests.swiftdeps"
+  },
+  "/Users/mac/Proje1/Tests/DiveCoreTests/DiveReportTests.swift": {
+    "dependencies": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveCoreTests.build/DiveReportTests.d",
+    "object": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveCoreTests.build/DiveReportTests.swift.o",
+    "swiftmodule": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveCoreTests.build/DiveReportTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveCoreTests.build/DiveReportTests.swiftdeps"
+  },
+  "/Users/mac/Proje1/Tests/DiveCoreTests/DiveSessionControllerTests.swift": {
+    "dependencies": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveCoreTests.build/DiveSessionControllerTests.d",
+    "object": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveCoreTests.build/DiveSessionControllerTests.swift.o",
+    "swiftmodule": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveCoreTests.build/DiveSessionControllerTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveCoreTests.build/DiveSessionControllerTests.swiftdeps"
+  },
+  "/Users/mac/Proje1/Tests/DiveCoreTests/DiveSettingsTests.swift": {
+    "dependencies": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveCoreTests.build/DiveSettingsTests.d",
+    "object": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveCoreTests.build/DiveSettingsTests.swift.o",
+    "swiftmodule": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveCoreTests.build/DiveSettingsTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveCoreTests.build/DiveSettingsTests.swiftdeps"
+  },
+  "/Users/mac/Proje1/Tests/DiveCoreTests/DiveSimulatorTests.swift": {
+    "dependencies": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveCoreTests.build/DiveSimulatorTests.d",
+    "object": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveCoreTests.build/DiveSimulatorTests.swift.o",
+    "swiftmodule": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveCoreTests.build/DiveSimulatorTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveCoreTests.build/DiveSimulatorTests.swiftdeps"
+  },
+  "/Users/mac/Proje1/Tests/DiveCoreTests/DiveStateTests.swift": {
+    "dependencies": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveCoreTests.build/DiveStateTests.d",
+    "object": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveCoreTests.build/DiveStateTests.swift.o",
+    "swiftmodule": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveCoreTests.build/DiveStateTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveCoreTests.build/DiveStateTests.swiftdeps"
+  },
+  "/Users/mac/Proje1/Tests/DiveCoreTests/DiveSyncEngineTests.swift": {
+    "dependencies": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveCoreTests.build/DiveSyncEngineTests.d",
+    "object": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveCoreTests.build/DiveSyncEngineTests.swift.o",
+    "swiftmodule": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveCoreTests.build/DiveSyncEngineTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveCoreTests.build/DiveSyncEngineTests.swiftdeps"
+  },
+  "/Users/mac/Proje1/Tests/DiveCoreTests/EnergyOptimizationTests.swift": {
+    "dependencies": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveCoreTests.build/EnergyOptimizationTests.d",
+    "object": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveCoreTests.build/EnergyOptimizationTests.swift.o",
+    "swiftmodule": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveCoreTests.build/EnergyOptimizationTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveCoreTests.build/EnergyOptimizationTests.swiftdeps"
+  },
+  "/Users/mac/Proje1/Tests/DiveCoreTests/GasMixTests.swift": {
+    "dependencies": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveCoreTests.build/GasMixTests.d",
+    "object": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveCoreTests.build/GasMixTests.swift.o",
+    "swiftmodule": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveCoreTests.build/GasMixTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveCoreTests.build/GasMixTests.swiftdeps"
+  },
+  "/Users/mac/Proje1/Tests/DiveCoreTests/GradientFactorsTests.swift": {
+    "dependencies": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveCoreTests.build/GradientFactorsTests.d",
+    "object": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveCoreTests.build/GradientFactorsTests.swift.o",
+    "swiftmodule": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveCoreTests.build/GradientFactorsTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveCoreTests.build/GradientFactorsTests.swiftdeps"
+  },
+  "/Users/mac/Proje1/Tests/DiveCoreTests/LogEntryTests.swift": {
+    "dependencies": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveCoreTests.build/LogEntryTests.d",
+    "object": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveCoreTests.build/LogEntryTests.swift.o",
+    "swiftmodule": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveCoreTests.build/LogEntryTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveCoreTests.build/LogEntryTests.swiftdeps"
+  },
+  "/Users/mac/Proje1/Tests/DiveCoreTests/OxygenStatusTests.swift": {
+    "dependencies": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveCoreTests.build/OxygenStatusTests.d",
+    "object": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveCoreTests.build/OxygenStatusTests.swift.o",
+    "swiftmodule": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveCoreTests.build/OxygenStatusTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveCoreTests.build/OxygenStatusTests.swiftdeps"
+  },
+  "/Users/mac/Proje1/Tests/DiveCoreTests/OxygenToxicityTests.swift": {
+    "dependencies": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveCoreTests.build/OxygenToxicityTests.d",
+    "object": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveCoreTests.build/OxygenToxicityTests.swift.o",
+    "swiftmodule": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveCoreTests.build/OxygenToxicityTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveCoreTests.build/OxygenToxicityTests.swiftdeps"
+  },
+  "/Users/mac/Proje1/Tests/DiveCoreTests/RepetitiveDiveDisplayTests.swift": {
+    "dependencies": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveCoreTests.build/RepetitiveDiveDisplayTests.d",
+    "object": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveCoreTests.build/RepetitiveDiveDisplayTests.swift.o",
+    "swiftmodule": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveCoreTests.build/RepetitiveDiveDisplayTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveCoreTests.build/RepetitiveDiveDisplayTests.swiftdeps"
+  },
+  "/Users/mac/Proje1/Tests/DiveCoreTests/ShallowWaterStressTests.swift": {
+    "dependencies": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveCoreTests.build/ShallowWaterStressTests.d",
+    "object": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveCoreTests.build/ShallowWaterStressTests.swift.o",
+    "swiftmodule": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveCoreTests.build/ShallowWaterStressTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveCoreTests.build/ShallowWaterStressTests.swiftdeps"
+  },
+  "/Users/mac/Proje1/Tests/DiveCoreTests/StoreTextTests.swift": {
+    "dependencies": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveCoreTests.build/StoreTextTests.d",
+    "object": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveCoreTests.build/StoreTextTests.swift.o",
+    "swiftmodule": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveCoreTests.build/StoreTextTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveCoreTests.build/StoreTextTests.swiftdeps"
+  },
+  "/Users/mac/Proje1/Tests/DiveCoreTests/SurfaceIntervalCalculationsTests.swift": {
+    "dependencies": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveCoreTests.build/SurfaceIntervalCalculationsTests.d",
+    "object": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveCoreTests.build/SurfaceIntervalCalculationsTests.swift.o",
+    "swiftmodule": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveCoreTests.build/SurfaceIntervalCalculationsTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveCoreTests.build/SurfaceIntervalCalculationsTests.swiftdeps"
+  },
+  "/Users/mac/Proje1/Tests/DiveCoreTests/SurfaceIntervalManagerTests.swift": {
+    "dependencies": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveCoreTests.build/SurfaceIntervalManagerTests.d",
+    "object": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveCoreTests.build/SurfaceIntervalManagerTests.swift.o",
+    "swiftmodule": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveCoreTests.build/SurfaceIntervalManagerTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveCoreTests.build/SurfaceIntervalManagerTests.swiftdeps"
+  },
+  "/Users/mac/Proje1/Tests/DiveCoreTests/SyncStressTests.swift": {
+    "dependencies": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveCoreTests.build/SyncStressTests.d",
+    "object": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveCoreTests.build/SyncStressTests.swift.o",
+    "swiftmodule": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveCoreTests.build/SyncStressTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveCoreTests.build/SyncStressTests.swiftdeps"
+  },
+  "/Users/mac/Proje1/Tests/DiveCoreTests/TissueModelTests.swift": {
+    "dependencies": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveCoreTests.build/TissueModelTests.d",
+    "object": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveCoreTests.build/TissueModelTests.swift.o",
+    "swiftmodule": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveCoreTests.build/TissueModelTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveCoreTests.build/TissueModelTests.swiftdeps"
+  }
+}

@@ -1,0 +1,3 @@
+module DiveWatch {
+    header "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveWatch.build/include/DiveWatch-Swift.h"
+}

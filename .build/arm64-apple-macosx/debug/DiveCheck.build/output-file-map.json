@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveCheck.build/master.swiftdeps"
+  },
+  "/Users/mac/Proje1/Tools/DiveCheck/main.swift": {
+    "dependencies": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveCheck.build/main.d",
+    "object": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveCheck.build/main.swift.o",
+    "swiftmodule": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveCheck.build/main~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveCheck.build/main.swiftdeps"
+  }
+}

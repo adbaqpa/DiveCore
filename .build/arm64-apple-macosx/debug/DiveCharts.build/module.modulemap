@@ -1,0 +1,4 @@
+module DiveCharts {
+    header "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveCharts.build/DiveCharts-Swift.h"
+    requires objc
+}

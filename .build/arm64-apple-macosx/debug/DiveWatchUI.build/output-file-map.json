@@ -1,0 +1,101 @@
+{
+  "": {
+    "swift-dependencies": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveWatchUI.build/master.swiftdeps"
+  },
+  "/Users/mac/Proje1/Sources/DiveWatchUI/DecoScreens.swift": {
+    "dependencies": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveWatchUI.build/DecoScreens.d",
+    "object": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveWatchUI.build/DecoScreens.swift.o",
+    "swiftmodule": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveWatchUI.build/DecoScreens~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveWatchUI.build/DecoScreens.swiftdeps"
+  },
+  "/Users/mac/Proje1/Sources/DiveWatchUI/DiveActionIntent.swift": {
+    "dependencies": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveWatchUI.build/DiveActionIntent.d",
+    "object": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveWatchUI.build/DiveActionIntent.swift.o",
+    "swiftmodule": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveWatchUI.build/DiveActionIntent~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveWatchUI.build/DiveActionIntent.swiftdeps"
+  },
+  "/Users/mac/Proje1/Sources/DiveWatchUI/DiveComplications.swift": {
+    "dependencies": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveWatchUI.build/DiveComplications.d",
+    "object": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveWatchUI.build/DiveComplications.swift.o",
+    "swiftmodule": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveWatchUI.build/DiveComplications~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveWatchUI.build/DiveComplications.swiftdeps"
+  },
+  "/Users/mac/Proje1/Sources/DiveWatchUI/DiveComponents.swift": {
+    "dependencies": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveWatchUI.build/DiveComponents.d",
+    "object": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveWatchUI.build/DiveComponents.swift.o",
+    "swiftmodule": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveWatchUI.build/DiveComponents~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveWatchUI.build/DiveComponents.swiftdeps"
+  },
+  "/Users/mac/Proje1/Sources/DiveWatchUI/DiveLockOverlay.swift": {
+    "dependencies": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveWatchUI.build/DiveLockOverlay.d",
+    "object": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveWatchUI.build/DiveLockOverlay.swift.o",
+    "swiftmodule": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveWatchUI.build/DiveLockOverlay~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveWatchUI.build/DiveLockOverlay.swiftdeps"
+  },
+  "/Users/mac/Proje1/Sources/DiveWatchUI/DiveLogbookScreen.swift": {
+    "dependencies": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveWatchUI.build/DiveLogbookScreen.d",
+    "object": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveWatchUI.build/DiveLogbookScreen.swift.o",
+    "swiftmodule": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveWatchUI.build/DiveLogbookScreen~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveWatchUI.build/DiveLogbookScreen.swiftdeps"
+  },
+  "/Users/mac/Proje1/Sources/DiveWatchUI/DiveReportScreen.swift": {
+    "dependencies": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveWatchUI.build/DiveReportScreen.d",
+    "object": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveWatchUI.build/DiveReportScreen.swift.o",
+    "swiftmodule": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveWatchUI.build/DiveReportScreen~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveWatchUI.build/DiveReportScreen.swiftdeps"
+  },
+  "/Users/mac/Proje1/Sources/DiveWatchUI/DiveRootView.swift": {
+    "dependencies": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveWatchUI.build/DiveRootView.d",
+    "object": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveWatchUI.build/DiveRootView.swift.o",
+    "swiftmodule": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveWatchUI.build/DiveRootView~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveWatchUI.build/DiveRootView.swiftdeps"
+  },
+  "/Users/mac/Proje1/Sources/DiveWatchUI/DiveScreen.swift": {
+    "dependencies": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveWatchUI.build/DiveScreen.d",
+    "object": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveWatchUI.build/DiveScreen.swift.o",
+    "swiftmodule": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveWatchUI.build/DiveScreen~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveWatchUI.build/DiveScreen.swiftdeps"
+  },
+  "/Users/mac/Proje1/Sources/DiveWatchUI/DiveSettingsScreen.swift": {
+    "dependencies": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveWatchUI.build/DiveSettingsScreen.d",
+    "object": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveWatchUI.build/DiveSettingsScreen.swift.o",
+    "swiftmodule": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveWatchUI.build/DiveSettingsScreen~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveWatchUI.build/DiveSettingsScreen.swiftdeps"
+  },
+  "/Users/mac/Proje1/Sources/DiveWatchUI/DiveSurfaceComplications.swift": {
+    "dependencies": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveWatchUI.build/DiveSurfaceComplications.d",
+    "object": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveWatchUI.build/DiveSurfaceComplications.swift.o",
+    "swiftmodule": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveWatchUI.build/DiveSurfaceComplications~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveWatchUI.build/DiveSurfaceComplications.swiftdeps"
+  },
+  "/Users/mac/Proje1/Sources/DiveWatchUI/DiveTheme.swift": {
+    "dependencies": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveWatchUI.build/DiveTheme.d",
+    "object": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveWatchUI.build/DiveTheme.swift.o",
+    "swiftmodule": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveWatchUI.build/DiveTheme~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveWatchUI.build/DiveTheme.swiftdeps"
+  },
+  "/Users/mac/Proje1/Sources/DiveWatchUI/DiveViewModel.swift": {
+    "dependencies": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveWatchUI.build/DiveViewModel.d",
+    "object": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveWatchUI.build/DiveViewModel.swift.o",
+    "swiftmodule": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveWatchUI.build/DiveViewModel~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveWatchUI.build/DiveViewModel.swiftdeps"
+  },
+  "/Users/mac/Proje1/Sources/DiveWatchUI/EnergySettingsScreen.swift": {
+    "dependencies": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveWatchUI.build/EnergySettingsScreen.d",
+    "object": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveWatchUI.build/EnergySettingsScreen.swift.o",
+    "swiftmodule": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveWatchUI.build/EnergySettingsScreen~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveWatchUI.build/EnergySettingsScreen.swiftdeps"
+  },
+  "/Users/mac/Proje1/Sources/DiveWatchUI/RepetitiveDiveScreen.swift": {
+    "dependencies": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveWatchUI.build/RepetitiveDiveScreen.d",
+    "object": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveWatchUI.build/RepetitiveDiveScreen.swift.o",
+    "swiftmodule": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveWatchUI.build/RepetitiveDiveScreen~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveWatchUI.build/RepetitiveDiveScreen.swiftdeps"
+  },
+  "/Users/mac/Proje1/Sources/DiveWatchUI/WatchPaywallView.swift": {
+    "dependencies": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveWatchUI.build/WatchPaywallView.d",
+    "object": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveWatchUI.build/WatchPaywallView.swift.o",
+    "swiftmodule": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveWatchUI.build/WatchPaywallView~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveWatchUI.build/WatchPaywallView.swiftdeps"
+  }
+}

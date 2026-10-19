@@ -1,0 +1,47 @@
+{
+  "": {
+    "swift-dependencies": "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveWatch.build/primary.swiftdeps"
+  },
+  "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveWatch/CMAltimeterDepthSource.swift": {
+    "dependencies": "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveWatch.build/CMAltimeterDepthSource.d",
+    "object": "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveWatch.build/CMAltimeterDepthSource.swift.o",
+    "swiftmodule": "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveWatch.build/CMAltimeterDepthSource~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveWatch.build/CMAltimeterDepthSource.swiftdeps",
+    "diagnostics": "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveWatch.build/CMAltimeterDepthSource.dia"  },
+  "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveWatch/DiveSystem.swift": {
+    "dependencies": "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveWatch.build/DiveSystem.d",
+    "object": "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveWatch.build/DiveSystem.swift.o",
+    "swiftmodule": "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveWatch.build/DiveSystem~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveWatch.build/DiveSystem.swiftdeps",
+    "diagnostics": "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveWatch.build/DiveSystem.dia"  },
+  "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveWatch/SurfaceIntervalBackgroundAdapter.swift": {
+    "dependencies": "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveWatch.build/SurfaceIntervalBackgroundAdapter.d",
+    "object": "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveWatch.build/SurfaceIntervalBackgroundAdapter.swift.o",
+    "swiftmodule": "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveWatch.build/SurfaceIntervalBackgroundAdapter~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveWatch.build/SurfaceIntervalBackgroundAdapter.swiftdeps",
+    "diagnostics": "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveWatch.build/SurfaceIntervalBackgroundAdapter.dia"  },
+  "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveWatch/WatchHapticEngine.swift": {
+    "dependencies": "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveWatch.build/WatchHapticEngine.d",
+    "object": "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveWatch.build/WatchHapticEngine.swift.o",
+    "swiftmodule": "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveWatch.build/WatchHapticEngine~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveWatch.build/WatchHapticEngine.swiftdeps",
+    "diagnostics": "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveWatch.build/WatchHapticEngine.dia"  },
+  "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveWatch/WatchHeadingSource.swift": {
+    "dependencies": "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveWatch.build/WatchHeadingSource.d",
+    "object": "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveWatch.build/WatchHeadingSource.swift.o",
+    "swiftmodule": "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveWatch.build/WatchHeadingSource~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveWatch.build/WatchHeadingSource.swiftdeps",
+    "diagnostics": "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveWatch.build/WatchHeadingSource.dia"  },
+  "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveWatch/WatchPowerAdapter.swift": {
+    "dependencies": "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveWatch.build/WatchPowerAdapter.d",
+    "object": "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveWatch.build/WatchPowerAdapter.swift.o",
+    "swiftmodule": "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveWatch.build/WatchPowerAdapter~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveWatch.build/WatchPowerAdapter.swiftdeps",
+    "diagnostics": "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveWatch.build/WatchPowerAdapter.dia"  },
+  "/Users/mac/DiveCore Scuba Computer - WatchOS/Sources/DiveWatch/WatchWaterLockAdapter.swift": {
+    "dependencies": "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveWatch.build/WatchWaterLockAdapter.d",
+    "object": "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveWatch.build/WatchWaterLockAdapter.swift.o",
+    "swiftmodule": "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveWatch.build/WatchWaterLockAdapter~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveWatch.build/WatchWaterLockAdapter.swiftdeps",
+    "diagnostics": "/Users/mac/DiveCore Scuba Computer - WatchOS/.build/index-build/arm64-apple-macosx/debug/DiveWatch.build/WatchWaterLockAdapter.dia"  }
+}

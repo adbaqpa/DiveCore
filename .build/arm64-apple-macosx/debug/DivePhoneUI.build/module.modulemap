@@ -1,0 +1,4 @@
+module DivePhoneUI {
+    header "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DivePhoneUI.build/DivePhoneUI-Swift.h"
+    requires objc
+}

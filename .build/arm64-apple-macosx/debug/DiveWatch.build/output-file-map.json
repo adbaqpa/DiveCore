@@ -1,0 +1,47 @@
+{
+  "": {
+    "swift-dependencies": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveWatch.build/master.swiftdeps"
+  },
+  "/Users/mac/Proje1/Sources/DiveWatch/CMAltimeterDepthSource.swift": {
+    "dependencies": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveWatch.build/CMAltimeterDepthSource.d",
+    "object": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveWatch.build/CMAltimeterDepthSource.swift.o",
+    "swiftmodule": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveWatch.build/CMAltimeterDepthSource~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveWatch.build/CMAltimeterDepthSource.swiftdeps"
+  },
+  "/Users/mac/Proje1/Sources/DiveWatch/DiveSystem.swift": {
+    "dependencies": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveWatch.build/DiveSystem.d",
+    "object": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveWatch.build/DiveSystem.swift.o",
+    "swiftmodule": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveWatch.build/DiveSystem~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveWatch.build/DiveSystem.swiftdeps"
+  },
+  "/Users/mac/Proje1/Sources/DiveWatch/SurfaceIntervalBackgroundAdapter.swift": {
+    "dependencies": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveWatch.build/SurfaceIntervalBackgroundAdapter.d",
+    "object": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveWatch.build/SurfaceIntervalBackgroundAdapter.swift.o",
+    "swiftmodule": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveWatch.build/SurfaceIntervalBackgroundAdapter~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveWatch.build/SurfaceIntervalBackgroundAdapter.swiftdeps"
+  },
+  "/Users/mac/Proje1/Sources/DiveWatch/WatchHapticEngine.swift": {
+    "dependencies": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveWatch.build/WatchHapticEngine.d",
+    "object": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveWatch.build/WatchHapticEngine.swift.o",
+    "swiftmodule": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveWatch.build/WatchHapticEngine~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveWatch.build/WatchHapticEngine.swiftdeps"
+  },
+  "/Users/mac/Proje1/Sources/DiveWatch/WatchHeadingSource.swift": {
+    "dependencies": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveWatch.build/WatchHeadingSource.d",
+    "object": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveWatch.build/WatchHeadingSource.swift.o",
+    "swiftmodule": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveWatch.build/WatchHeadingSource~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveWatch.build/WatchHeadingSource.swiftdeps"
+  },
+  "/Users/mac/Proje1/Sources/DiveWatch/WatchPowerAdapter.swift": {
+    "dependencies": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveWatch.build/WatchPowerAdapter.d",
+    "object": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveWatch.build/WatchPowerAdapter.swift.o",
+    "swiftmodule": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveWatch.build/WatchPowerAdapter~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveWatch.build/WatchPowerAdapter.swiftdeps"
+  },
+  "/Users/mac/Proje1/Sources/DiveWatch/WatchWaterLockAdapter.swift": {
+    "dependencies": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveWatch.build/WatchWaterLockAdapter.d",
+    "object": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveWatch.build/WatchWaterLockAdapter.swift.o",
+    "swiftmodule": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveWatch.build/WatchWaterLockAdapter~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveWatch.build/WatchWaterLockAdapter.swiftdeps"
+  }
+}

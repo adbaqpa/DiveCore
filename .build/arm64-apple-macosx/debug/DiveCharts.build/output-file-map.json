@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveCharts.build/master.swiftdeps"
+  },
+  "/Users/mac/Proje1/Sources/DiveCharts/DiveChartViews.swift": {
+    "dependencies": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveCharts.build/DiveChartViews.d",
+    "object": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveCharts.build/DiveChartViews.swift.o",
+    "swiftmodule": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveCharts.build/DiveChartViews~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveCharts.build/DiveChartViews.swiftdeps"
+  }
+}

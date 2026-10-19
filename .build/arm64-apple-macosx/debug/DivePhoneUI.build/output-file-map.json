@@ -1,0 +1,35 @@
+{
+  "": {
+    "swift-dependencies": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DivePhoneUI.build/master.swiftdeps"
+  },
+  "/Users/mac/Proje1/Sources/DivePhoneUI/DiveChartView.swift": {
+    "dependencies": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DivePhoneUI.build/DiveChartView.d",
+    "object": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DivePhoneUI.build/DiveChartView.swift.o",
+    "swiftmodule": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DivePhoneUI.build/DiveChartView~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DivePhoneUI.build/DiveChartView.swiftdeps"
+  },
+  "/Users/mac/Proje1/Sources/DivePhoneUI/DiveDetailScreen.swift": {
+    "dependencies": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DivePhoneUI.build/DiveDetailScreen.d",
+    "object": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DivePhoneUI.build/DiveDetailScreen.swift.o",
+    "swiftmodule": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DivePhoneUI.build/DiveDetailScreen~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DivePhoneUI.build/DiveDetailScreen.swiftdeps"
+  },
+  "/Users/mac/Proje1/Sources/DivePhoneUI/DiveExportScreen.swift": {
+    "dependencies": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DivePhoneUI.build/DiveExportScreen.d",
+    "object": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DivePhoneUI.build/DiveExportScreen.swift.o",
+    "swiftmodule": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DivePhoneUI.build/DiveExportScreen~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DivePhoneUI.build/DiveExportScreen.swiftdeps"
+  },
+  "/Users/mac/Proje1/Sources/DivePhoneUI/DiveRouteMapView.swift": {
+    "dependencies": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DivePhoneUI.build/DiveRouteMapView.d",
+    "object": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DivePhoneUI.build/DiveRouteMapView.swift.o",
+    "swiftmodule": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DivePhoneUI.build/DiveRouteMapView~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DivePhoneUI.build/DiveRouteMapView.swiftdeps"
+  },
+  "/Users/mac/Proje1/Sources/DivePhoneUI/PaywallView.swift": {
+    "dependencies": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DivePhoneUI.build/PaywallView.d",
+    "object": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DivePhoneUI.build/PaywallView.swift.o",
+    "swiftmodule": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DivePhoneUI.build/PaywallView~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DivePhoneUI.build/PaywallView.swiftdeps"
+  }
+}

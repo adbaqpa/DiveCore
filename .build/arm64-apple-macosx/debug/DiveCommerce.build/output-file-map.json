@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveCommerce.build/master.swiftdeps"
+  },
+  "/Users/mac/Proje1/Sources/DiveCommerce/StoreManager.swift": {
+    "dependencies": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveCommerce.build/StoreManager.d",
+    "object": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveCommerce.build/StoreManager.swift.o",
+    "swiftmodule": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveCommerce.build/StoreManager~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveCommerce.build/StoreManager.swiftdeps"
+  }
+}

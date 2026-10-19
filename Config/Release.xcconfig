@@ -1,0 +1,23 @@
+// ADIM 13 — Release / TestFlight
+//
+// TestFlight dağıtımı Release yapılandırmasıyla yapılır. Kritik noktalar:
+//
+// 1. **Optimizasyon**: -O (whole-module) — ADIM 11'in pil ölçümlerini
+//    ancak optimize edilmiş derlemede anlamlı kılar.
+// 2. **Kritik hata ayıklama**: Release'da da `SWIFT_OPTIMIZATION_LEVEL`
+//    ile birlikte `DEBUG_INFORMATION_FORMAT = dwarf-with-dsym` gerekir;
+//    çökme raporlarının okunabilmesi için semboller **aynen yüklenmelidir**.
+// 3. **Sağlık verisi**: Release'da `HealthKit` yetkisi zorunludur.
+// 4. **TestFlight** yalnızca Release + Distribution yetkisiyle dağıtılır.
+
+#include "Base.xcconfig"
+
+SWIFT_OPTIMIZATION_LEVEL = -O
+SWIFT_COMPILATION_MODE = wholemodule
+GCC_OPTIMIZATION_LEVEL = s
+DEBUG_INFORMATION_FORMAT = dwarf-with-dsym
+ENABLE_NS_ASSERTIONS = NO
+VALIDATE_PRODUCT = YES
+
+// SwiftUI/App uyarılarını hata say (yaygın kalite sorunlarını yakalar)
+SWIFT_TREAT_WARNINGS_AS_ERRORS = YES

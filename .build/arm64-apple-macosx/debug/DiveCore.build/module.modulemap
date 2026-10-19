@@ -1,0 +1,4 @@
+module DiveCore {
+    header "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/DiveCore.build/DiveCore-Swift.h"
+    requires objc
+}

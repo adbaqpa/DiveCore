@@ -1,0 +1,44 @@
+{
+    "configurations": [
+        {
+            "type": "swift",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:DiveCore Scuba Computer - WatchOS}",
+            "name": "Debug PlistCheck",
+            "target": "PlistCheck",
+            "configuration": "debug",
+            "preLaunchTask": "swift: Build Debug PlistCheck"
+        },
+        {
+            "type": "swift",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:DiveCore Scuba Computer - WatchOS}",
+            "name": "Release PlistCheck",
+            "target": "PlistCheck",
+            "configuration": "release",
+            "preLaunchTask": "swift: Build Release PlistCheck"
+        },
+        {
+            "type": "swift",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:DiveCore Scuba Computer - WatchOS}",
+            "name": "Debug DiveCheck",
+            "target": "DiveCheck",
+            "configuration": "debug",
+            "preLaunchTask": "swift: Build Debug DiveCheck"
+        },
+        {
+            "type": "swift",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:DiveCore Scuba Computer - WatchOS}",
+            "name": "Release DiveCheck",
+            "target": "DiveCheck",
+            "configuration": "release",
+            "preLaunchTask": "swift: Build Release DiveCheck"
+        }
+    ]
+}

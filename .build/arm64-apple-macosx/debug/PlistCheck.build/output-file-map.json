@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/PlistCheck.build/master.swiftdeps"
+  },
+  "/Users/mac/Proje1/Tools/PlistCheck/main.swift": {
+    "dependencies": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/PlistCheck.build/main.d",
+    "object": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/PlistCheck.build/main.swift.o",
+    "swiftmodule": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/PlistCheck.build/main~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Proje1/.build/arm64-apple-macosx/debug/PlistCheck.build/main.swiftdeps"
+  }
+}

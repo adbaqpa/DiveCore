@@ -1,0 +1,15 @@
+{
+  "images" : [
+    {
+      "appearances" : [ "watch", "watch-classic" ],
+      "filename" : "ComplicationRectangular.png",
+      "idiom" : "watch",
+      "scale" : "1x",
+      "size" : "160x69"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

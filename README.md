@@ -1236,3 +1236,4 @@ faktörüdür; çok düşük GF'ler yavaş dokularda aşırı doygunluk yaratabi
   sınanmalı.
 - **Action Button kısayol ataması** ve Water Lock kullanıcı akışı
   saha doğrulaması.# DiveCore
+# DiveCore
